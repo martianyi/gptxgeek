@@ -3,7 +3,11 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
-    - title: 豆包AI
+    - title: ChatGPT
+      description: OpenAI旗下的对话工具
+      logo: https://www.faviconextractor.com/favicon/chatgpt.com?larger=true
+      url: https://chatgpt.com/
+    - title: 豆包
       description: 抖音旗下的免费AI聊天智能对话问答助手，ChatGPT国内平替产品
       logo: https://www.faviconextractor.com/favicon/www.doubao.com?larger=true
       url: https://doubao.paluai.com/?code=dh02
@@ -22,10 +26,6 @@
       logo: https://www.faviconextractor.com/favicon/www.midjourney.com?larger=true
       title: Midjourney
       url: https://www.midjourney.com/
-    - title: LOGO.com
-      logo: https://www.faviconextractor.com/favicon/logo.com?larger=true
-      url: https://logo.com
-      description: 制作logo
 - taxonomy: AI视频工具
   icon: fas fa-video
   links:
