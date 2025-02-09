@@ -3,18 +3,40 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
+    - title: 豆包AI
+      description: 抖音旗下的免费AI聊天智能对话问答助手，ChatGPT国内平替产品
+      logo: https://www.faviconextractor.com/favicon/www.doubao.com
+      url: https://doubao.paluai.com/?code=dh02
     - title: Kimi
       logo: 1734759274-kimi.webp
       url: https://kimi.moonshot.cn/?from=gptxgeek
       description: 会推理解析，能深度思考的AI助手
-
-- taxonomy: 图像工具
+    - description: Deepseek-探索未至之境，国产对标ChatGPT的AI模型
+      logo: https://www.faviconextractor.com/favicon/www.deepseek.com
+      title: Deepseek
+      url: https://www.deepseek.com/?from=gptxgeek
+- taxonomy: AI图像工具
   icon: far fa-image
   links:
+    - description: AI图像和插画生成工具
+      logo: https://www.faviconextractor.com/favicon/www.midjourney.com
+      title: Midjourney
+      url: https://www.midjourney.com/
     - title: LOGO.com
-      logo: 
+      logo: https://www.faviconextractor.com/favicon/logo.com
       url: https://logo.com
       description: 制作logo
+- taxonomy: AI视频工具
+  icon: fas fa-video
+  links:
+    - description: 一站式AI创作平台，免费AI图片和视频生成
+      logo: https://www.faviconextractor.com/favicon/jimeng.jianying.com
+      title: 即梦AI
+      url: https://jimeng.jianying.com/ai-tool/home/?utm_medium=aitools&utm_source=jh1&utm_campaign=null&utm_content=49213666j
+    - description: 每个想法都是一个大片  
+      logo: https://www.faviconextractor.com/favicon/hailuoai.com
+      title: 海螺AI
+      url: https://hailuoai.com/video
 
 # - taxonomy: 常用推荐
 #   icon: far fa-star

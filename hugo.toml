@@ -46,4 +46,4 @@ publishDir            = "public"				# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = '&copy; 2025 - {year} By [Yi Kai](https://github.com/martianyi) <br/>'
+    copyright = '&copy; {year} GPTXGeek By [Yi Kai](https://github.com/martianyi) <br/>'
