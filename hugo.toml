@@ -1,4 +1,4 @@
-baseURL               = "https://gptxgeek.com"
+baseURL               = "https://gptxgeek.com/"
 languageCode          = "zh-CN"
 title                 = "GPTXGeek"
 theme                 = "WebStack-Hugo"
