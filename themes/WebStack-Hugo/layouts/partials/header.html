@@ -10,8 +10,17 @@
     <title>{{ .Site.Title }}</title>
     <link rel="shortcut icon" href="{{ relURL $.Site.Params.images.favicon }}" />
     <meta name="keywords" content="{{ .Site.Title }}" />
+    <meta name="description" content="{{ site.Params.Description }}" />
+    {{- if isset .Params "canonical" -}}
+    <link rel="canonical" href="{{ .Params.canonical }}" />
+    {{- else -}}
+    <link rel="canonical" href="{{ .Permalink }}" />
+    {{- end }}
     {{ if $.Site.Params.seo.baiduSiteVer }}
     <meta name="baidu-site-verification" content="{{ $.Site.Params.seo.baiduSiteVer }}" />
+    {{ end }}
+    {{ if $.Site.Params.seo.googleSiteVer }}
+    <meta name="google-site-verification" content="{{ $.Site.Params.seo.googleSiteVer }}" />
     {{ end }}
     <link href="https://fonts.font.im/css2?family=Lexend:wght@100..900&display=swap" rel="stylesheet">
 

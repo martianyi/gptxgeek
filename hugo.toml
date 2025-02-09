@@ -6,11 +6,11 @@ preserveTaxonomyNames = true
 disablePathToLower    = true
 hasCJKLanguage        = true
 publishDir            = "public"				# 站点静态文件保存目录
-
+enableRobotsTXT       = true
 
 [params]
     author        = "yikai"
-    description   = "GPTXGeek 网址导航 | AI tools"
+    description   = "GPTXGeek | AI tools | AI工具"
     upload        = "https://github.com/martianyi/gptxgeek/discussions/2"      # 左侧导航栏的"网站提交"
     about         = ""	          # 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/martianyi/gptxgeek"  
@@ -26,6 +26,7 @@ publishDir            = "public"				# 站点静态文件保存目录
 [params.seo]    
     baiduhmid       = ''	# 百度统计 hm.src 的 ID
     baiduSiteVer    = ''			# 百度HTML标签验证(baidu-site-verification)
+    googleSiteVer   = 'S0kWM0DJCy1Xtqih9cNJiKevjxfxT3HZdgJNPrJpIYo' # Google search console
     tj51laid        = ''                        		# 51.LA 网站统计
     tj51lack        = ''
     GoogleAdsClient = ''					# Google AdSense 
