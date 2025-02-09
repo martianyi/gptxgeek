@@ -11,9 +11,9 @@ publishDir            = "public"				# 站点静态文件保存目录
 [params]
     author        = "yikai"
     description   = "GPTXGeek 网址导航 | AI tools"
-    upload        = ""      # 左侧导航栏的"网站提交"
+    upload        = "https://github.com/martianyi/gptxgeek/discussions/2"      # 左侧导航栏的"网站提交"
     about         = ""	          # 左侧导航栏的"关于导航"页面(./about)
-    repository    = ""  
+    repository    = "https://github.com/martianyi/gptxgeek"  
     enablePreLoad = true					# 网站完全打开前预加载动画
     textPreLoad   = "GPTXGeek"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = true					# 默认展开左侧边导航栏
@@ -34,13 +34,13 @@ publishDir            = "public"				# 站点静态文件保存目录
     key = "085791e805a24491b43b06cf58ab31e7"
 
 [params.images]
-    favicon           = "assets/images/gptxgeek-icon.webp"
+    favicon           = "assets/images/favicon.ico"
     searchImageL      = "assets/images/bg-dna.jpg"		# 搜索部分浅色背景图
     searchImageD      = "assets/images/bg-dna.jpg"		# 搜索部分深色背景图
-    logoExpandLight   = "assets/images/gptxgeek.webp"
-    logoExpandDark    = "assets/images/gptxgeek.webp"
-    logoCollapseLight = "assets/images/gptxgeek-icon.webp"
-    logoCollapseDark  = "assets/images/gptxgeek-icon.webp"
+    logoExpandLight   = "assets/images/logo-gptxgeek.webp"
+    logoExpandDark    = "assets/images/logo-gptxgeek-dark.webp"
+    logoCollapseLight = "assets/images/icon-gptxgeek.webp"
+    logoCollapseDark  = "assets/images/icon-gptxgeek-dark.webp"
     
 [markup.goldmark.renderer]
     unsafe = true
