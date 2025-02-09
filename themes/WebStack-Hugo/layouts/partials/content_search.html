@@ -8,16 +8,13 @@
               class="anchor"
               style="position: absolute; left: 50%; opacity: 0"
             ></div>
-            <label for="type-baidu" data-id="group-a"><span>常用</span></label>
+            <label for="type-metaso" data-id="group-a"><span>AI搜索</span></label>
             <label for="type-baidu1" data-id="group-b"><span>搜索</span></label>
             <label for="type-whois" data-id="group-c"><span>工具</span></label>
             <label for="type-zhihu" data-id="group-d"><span>社区</span></label>
             <label for="type-taobao1" data-id="group-e"
               ><span>生活</span></label
             >
-            <!-- <label for="type-zhaopin" data-id="group-f"
-              ><span>求职</span></label
-            > -->
           </div>
         </div>
       </div>
@@ -51,12 +48,12 @@
                 type="radio"
                 name="type"
                 checked="checked"
-                id="type-baidu"
-                value="https://www.baidu.com/s?wd="
-                data-placeholder="百度一下，你就知道"
+                id="type-perplexity"
+                value="https://www.perplexity.ai/search?focus=internet&q="
+                data-placeholder="Perplexity AI 搜索"
               />
-              <label for="type-baidu"
-                ><span class="text-muted">百度</span></label
+              <label for="type-perplexity"
+                ><span class="text-muted">perplexity</span></label
               >
             </li>
             <li>
@@ -64,12 +61,12 @@
                 hidden=""
                 type="radio"
                 name="type"
-                id="type-bing"
-                value="https://cn.bing.com/search?q="
-                data-placeholder="微软 Bing 搜索"
+                id="type-metaso"
+                value="https://metaso.cn/?q="
+                data-placeholder="秘塔 AI 搜索"
               />
-              <label for="type-bing"
-                ><span class="text-muted">必应</span></label
+              <label for="type-metaso"
+                ><span class="text-muted">秘塔</span></label
               >
             </li>
             <li>
@@ -77,12 +74,12 @@
                 hidden=""
                 type="radio"
                 name="type"
-                id="type-google"
-                value="https://www.google.com/search?q="
-                data-placeholder="谷歌搜索"
+                id="type-felo"
+                value="https://felo.ai/search?q="
+                data-placeholder="Felo AI 搜索"
               />
-              <label for="type-google"
-                ><span class="text-muted">谷歌</span></label
+              <label for="type-felo"
+                ><span class="text-muted">felo</span></label
               >
             </li>
             <li>
@@ -90,25 +87,12 @@
                 hidden=""
                 type="radio"
                 name="type"
-                id="type-anaconda"
-                value="https://anaconda.org/search?q="
-                data-placeholder="Anaconda 软件搜索"
+                id="type-n"
+                value="https://www.n.cn/?q="
+                data-placeholder="纳米 AI 搜索"
               />
-              <label for="type-anaconda"
-                ><span class="text-muted">软件</span></label
-              >
-            </li>
-            <li>
-              <input
-                hidden=""
-                type="radio"
-                name="type"
-                id="type-pubmed"
-                value="https://pubmed.ncbi.nlm.nih.gov/?term="
-                data-placeholder="PubMed 搜索/文章标题/关键字"
-              />
-              <label for="type-pubmed"
-                ><span class="text-muted">文献</span></label
+              <label for="type-n"
+                ><span class="text-muted">纳米</span></label
               >
             </li>
           </ul>
@@ -281,11 +265,24 @@
                 type="radio"
                 name="type"
                 id="type-zhihu"
-                value="https://www.zhihu.com/search?type=content&q="
-                data-placeholder="知乎"
+                value="https://zhida.zhihu.com/?q="
+                data-placeholder="知乎直答"
               />
               <label for="type-zhihu"
                 ><span class="text-muted">知乎</span></label
+              >
+            </li>
+            <li>
+              <input
+                hidden=""
+                type="radio"
+                name="type"
+                id="type-xyz"
+                value="https://ask.xiaoyuzhoufm.com/result?q="
+                data-placeholder="问问小宇宙"
+              />
+              <label for="type-xyz"
+                ><span class="text-muted">小宇宙</span></label
               >
             </li>
             <li>
