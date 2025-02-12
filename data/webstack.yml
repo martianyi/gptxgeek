@@ -19,6 +19,37 @@
       logo: https://www.faviconextractor.com/favicon/www.deepseek.com?larger=true
       title: Deepseek
       url: https://www.deepseek.com/?from=gptxgeek
+- taxonomy: AI对话聊天
+  icon: far fa-comments
+  links:
+  - title: Molica AI
+    logo: https://www.faviconextractor.com/favicon/wx.molica.com.cn?larger=true
+    url: https://wx.molica.com.cn/web/#/pages/share/index
+    description: 集大成于一身的AI工具合集。包含ChatGPT、Midjourney、Suno、Luma、Claude、Gemini、Kimi、豆包、通义千问、文小言等，全球10多款先进的AI工具
+  - title: 智谱清言
+    logo: https://www.faviconextractor.com/favicon/chatglm.paluai.com?larger=true
+    url: https://chatglm.paluai.com
+    description: 免费全能的AI助手，支持AI图片、视频生成
+  - title: 逗逗AI
+    logo: https://www.faviconextractor.com/favicon/www.doudou.fun?larger=true
+    url: https://www.doudou.fun
+    description: 有趣的AI桌宠应用，陪你玩游戏！
+  - title: 厉害猫
+    logo: https://www.faviconextractor.com/favicon/www.lihaimao.com?larger=true
+    url: https://www.lihaimao.com
+    description: AIGC平台，对接了厉害猫AI、GPT3.5、GPT4O、通义千问、Kimi、文心一言、讯飞星火、智谱清言、ChatGLM9个大模型
+  - title: ChatGAi
+    logo: https://www.faviconextractor.com/favicon/chat.doltrans.com?larger=true
+    url: https://chat.doltrans.com
+    description: 集成Ai聊天、Ai创作、Ai绘画助理、Ai私人助理等功能
+  - title: 讯飞星火AI
+    logo: https://www.faviconextractor.com/favicon/xinghuo.xfyun.cn?larger=true
+    url: https://xinghuo.xfyun.cn/sparkapi
+    description: 国内自研免费GPT模型，支持AI问答，编写代码，AI绘画等，提供免费API调用
+  - title: 天工AI助手
+    logo: https://www.faviconextractor.com/favicon/www.tiangong.cn?larger=true
+    url: https://www.tiangong.cn
+    description: 「天工」是国内首个对标 ChatGPT 的双千亿级大语言模型，支持免费在线使用
 - taxonomy: AI图像工具
   icon: far fa-image
   links:
@@ -32,322 +63,196 @@
     - description: 一站式AI创作平台，免费AI图片和视频生成
       logo: https://www.faviconextractor.com/favicon/jimeng.jianying.com?larger=true
       title: 即梦AI
-      url: https://jimeng.jianying.com/ai-tool/home/?utm_medium=gptxgeekols&utm_source=jh1&utm_campaign=null&utm_content=49213666j
+      url: https://jimeng.jianying.com/gptxgeekol/home/
     - description: 每个想法都是一个大片  
       logo: https://www.faviconextractor.com/favicon/hailuoai.com?larger=true
       title: 海螺AI
       url: https://hailuoai.com/video
-
-- taxonomy: 未分类
-  icon: fas fa-wrench
-  links:
-    - title: 比格AIPPT
-      logo: https://www.faviconextractor.com/favicon/www.bigppt.cn?larger=true
-      url: https://www.bigppt.cn/?hmmd=gptxgeek
-      description: ''
-    - title: AIPaperPass
-      logo: https://www.faviconextractor.com/favicon/www.aipaperpass.com?larger=true
-      url: https://www.aipaperpass.com?pic=qbzq
-      description: ''
-    - title: 智谱清言
-      logo: https://www.faviconextractor.com/favicon/chatglm.paluai.com?larger=true
-      url: https://chatglm.paluai.com/gptxgeek
-      description: ''
-    - title: 讯飞绘镜
-      logo: https://www.faviconextractor.com/favicon/typemovie.art?larger=true
-      url: https://typemovie.art/?utm_source=nt-ai10#/dashboard
-      description: ''
-    - title: Molica AI
-      logo: https://www.faviconextractor.com/favicon/wx.molica.com.cn?larger=true
-      url: https://wx.molica.com.cn/web/#/pages/share/index?type=pc-gongjuge
-      description: ''
-    - title: 智谱清言
-      logo: https://www.faviconextractor.com/favicon/chatglm.paluai.com?larger=true
-      url: https://chatglm.paluai.com/gptxgeek
-      description: ''
-    - title: 逗逗AI
-      logo: https://www.faviconextractor.com/favicon/www.doudou.fun?larger=true
-      url: https://www.doudou.fun/?channel=web_gptxgeekol08
-      description: ''
-    - title: 厉害猫
-      logo: https://www.faviconextractor.com/favicon/www.lihaimao.com?larger=true
-      url: https://www.lihaimao.com/?user_sn=22446455
-      description: ''
-    - title: ChatGAi
-      logo: https://www.faviconextractor.com/favicon/chat.doltrans.com?larger=true
-      url: https://chat.doltrans.com?code=1015213395
-      description: ''
-    - title: 讯飞星火AI
-      logo: https://www.faviconextractor.com/favicon/xinghuo.xfyun.cn?larger=true
-      url: https://xinghuo.xfyun.cn/sparkapi?ch=xh_srx_rS0m
-      description: ''
-    - title: 天工AI助手
-      logo: https://www.faviconextractor.com/favicon/www.tiangong.cn?larger=true
-      url: https://www.tiangong.cn
-      description: ''
-    - title: AI排版助手
-      logo: https://www.faviconextractor.com/favicon/www.135editor.com?larger=true
-      url: https://www.135editor.com/ai_editor/?track_id=32&hmmd=gpt
-      description: ''
-    - title: 135小红书排版
-      logo: https://www.faviconextractor.com/favicon/www.135editor.com?larger=true
-      url: https://www.135editor.com/ai_editor/red-book/home/?track_id=34&hmmd=gptxgeek
-      description: ''
-    - title: 讯飞文书
-      logo: https://www.faviconextractor.com/favicon/gw.iflydocs.com?larger=true
-      url: https://gw.iflydocs.com/?from=AIjihe9
-      description: ''
-    - title: 笔灵AI写作
-      logo: https://www.faviconextractor.com/favicon/ibiling.cn?larger=true
-      url: https://ibiling.cn/?from=tomyres
-      description: ''
-    - title: 百度文库AI助手
-      logo: https://www.faviconextractor.com/favicon/wenku.baidu.com?larger=true
-      url: https://wenku.baidu.com/ndlaunch/browse/chat?fr=dist_wk_aiasis&dist_source=kfpt-WD&utm_account=dist&keyword=PPT&searchFr=1&third_id=wkds_817df20669eae009581becb6_400000224
-      description: ''
-    - title: 万彩AI
-      logo: https://www.faviconextractor.com/favicon/ai.kezhan365.com?larger=true
-      url: https://ai.kezhan365.com/?utm_code=zjc-gptxgeek-dhl-038
-      description: ''
-    - title: 光速写作
-      logo: https://www.faviconextractor.com/favicon/www.guangsuxie.com?larger=true
-      url: https://www.guangsuxie.com/static/college-write-web/home?from=gptxgeekols12
-      description: ''
-    - title: 讯飞写作
-      logo: https://www.faviconextractor.com/favicon/huixie.iflyrec.com?larger=true
-      url: https://huixie.iflyrec.com/list?from=aidh08
-      description: ''
-    - title: 讯飞绘文
-      logo: https://www.faviconextractor.com/favicon/turbodesk.xfyun.cn?larger=true
-      url: https://turbodesk.xfyun.cn/?channelid=gj3
-      description: ''
-    - title: 言笔AI写作
-      logo: https://www.faviconextractor.com/favicon/www.yanbiai.com?larger=true
-      url: https://www.yanbiai.com/?ly=gptxgeek
-      description: ''
-    - title: Effidit
-      logo: https://www.faviconextractor.com/favicon/effidit.qq.com?larger=true
-      url: https://effidit.qq.com
-      description: ''
-    - title: AIPaperPass
-      logo: https://www.faviconextractor.com/favicon/www.aipaperpass.com?larger=true
-      url: https://www.aipaperpass.com?pic=qbzq
-      description: ''
-    - title: 笔灵AI论文
-      logo: https://www.faviconextractor.com/favicon/ibiling.cn?larger=true
-      url: https://ibiling.cn/paper?from=tomyrespaper
-      description: ''
-    - title: Aibiye论文自动生成
-      logo: https://www.faviconextractor.com/favicon/www.aibiye.com?larger=true
-      url: https://www.aibiye.com/?code=ZaImeD
-      description: ''
-    - title: 摆平AI论文
-      logo: https://www.faviconextractor.com/favicon/baipingai.com?larger=true
-      url: https://baipingai.com/paper/paper-sc?from=tomyres
-      description: ''
-    - title: 包阅AI
-      logo: https://www.faviconextractor.com/favicon/baoyueai.com?larger=true
-      url: https://baoyueai.com/home/scenes?utm_id=237583#part-2
-      description: ''
-    - title: 比格AIPPT
-      logo: https://www.faviconextractor.com/favicon/www.bigppt.cn?larger=true
-      url: https://www.bigppt.cn/?hmmd=gptxgeek
-      description: ''
-    - title: iSlide PPT
-      logo: https://www.faviconextractor.com/favicon/www.islide.cc?larger=true
-      url: https://www.islide.cc/?mtm_campaign=aigjg
-      description: ''
-    - title: 轻竹AIPPT
-      logo: https://www.faviconextractor.com/favicon/www.qzoffice.com?larger=true
-      url: https://www.qzoffice.com/?from=tomyres
-      description: ''
-    - title: ChatPPT
-      logo: https://www.faviconextractor.com/favicon/www.chat-ppt.com?larger=true
-      url: https://www.chat-ppt.com/?channel=tomyres
-      description: ''
-    - title: 文多多AIPPT
-      logo: https://www.faviconextractor.com/favicon/docmee.cn?larger=true
-      url: https://docmee.cn/?source=ai-to
-      description: ''
-    - title: 美间AIPPT
-      logo: https://www.faviconextractor.com/favicon/www.meijian.com?larger=true
-      url: https://www.meijian.com/ai?from=mj_navigation&utm_source=dsdhtomyres
-      description: ''
-    - title: 笔灵AIPPT
-      logo: https://www.faviconextractor.com/favicon/ibiling.cn?larger=true
-      url: https://ibiling.cn/ppt-zone?from=tomyresaippt
-      description: ''
-    - title: AIPPT
-      logo: https://www.faviconextractor.com/favicon/www.aippt.cn?larger=true
-      url: https://www.aippt.cn/api/share/page?utm_unit=PCTM&code=2fe99cd941
-      description: ''
-    - title: 笔魂AI绘图
-      logo: https://www.faviconextractor.com/favicon/ibihun.com?larger=true
-      url: https://ibihun.com/?hf=104
-      description: ''
-    - title: 绘蛙AI
-      logo: https://www.faviconextractor.com/favicon/www.ihuiwa.com?larger=true
-      url: https://www.ihuiwa.com/invite?huiwaInviteCode=EMAIJL
-      description: ''
-    - title: AI小聚
-      logo: https://www.faviconextractor.com/favicon/a.ii.cn?larger=true
-      url: https://a.ii.cn/?t=eGnvQlaYsevcz11fc7
-      description: ''
-    - title: 触手AI绘画
-      logo: https://www.faviconextractor.com/favicon/www.acgnai.art?larger=true
-      url: https://www.acgnai.art/login?inviteCode=594157&channel=channel_invite
-      description: ''
-    - title: 秒画
-      logo: https://www.faviconextractor.com/favicon/miaohua.sensetime.com?larger=true
-      url: https://miaohua.sensetime.com/inspiration?invite_code=wGpK2P1GV
-      description: ''
-    - title: 即梦AI
-      logo: https://www.faviconextractor.com/favicon/jimeng.jianying.com?larger=true
-      url: https://jimeng.jianying.com/ai-tool/home/?utm_medium=gptxgeekols&utm_source=jh1&utm_campaign=null&utm_content=49213666j
-      description: ''
-    - title: 吐司AI
-      logo: https://www.faviconextractor.com/favicon/tusiart.com?larger=true
-      url: https://tusiart.com/?utm_source=aigjg&source_id=aigjg
-      description: ''
-    - title: Bing Image Creator
-      logo: https://www.faviconextractor.com/favicon/cn.bing.com?larger=true
-      url: https://cn.bing.com/create
-      description: ''
-    - title: 6pen
-      logo: https://www.faviconextractor.com/favicon/www.6pen.pro?larger=true
-      url: https://www.6pen.pro/?from=gptxgeek
-      description: ''
-    - title: Stable Diffusion
-      logo: https://www.faviconextractor.com/favicon/cn.bing.com?larger=true
-      url: https://cn.bing.com/search?q=Stable%20Diffusion&ensearch=1
-      description: ''
-    - title: Midjourney
-      logo: https://www.faviconextractor.com/favicon/cn.bing.com?larger=true
-      url: https://cn.bing.com/search?q=Midjourney&ensearch=1
-      description: ''
-    - title: 文心一格
-      logo: https://www.faviconextractor.com/favicon/yige.baidu.com?larger=true
-      url: https://yige.baidu.com
-      description: ''
-    - title: 通义万相
-      logo: https://www.faviconextractor.com/favicon/tongyi.aliyun.com?larger=true
-      url: https://tongyi.aliyun.com/wanxiang/?from=gptxgeek
-      description: ''
-    - title: 比格AI设计
-      logo: https://www.faviconextractor.com/favicon/bigesj.com?larger=true
-      url: https://bigesj.com/?hmmd=gptxgeek
-      description: ''
-    - title: 稿定AI设计
-      logo: https://www.faviconextractor.com/favicon/www.gaoding.com?larger=true
-      url: https://www.gaoding.com/utms/b24f7927974c45febc794078afba8858
-      description: ''
-    - title: 美间AI抠图
-      logo: https://www.faviconextractor.com/favicon/www.meijian.com?larger=true
-      url: https://www.meijian.com/ai?from=mj_navigation&utm_source=dsdhtomyres
-      description: ''
-    - title: Remove Photos
-      logo: https://www.faviconextractor.com/favicon/remove.photos?larger=true
-      url: https://remove.photos
-      description: ''
-    - title: Remove bg
-      logo: https://www.faviconextractor.com/favicon/www.remove.bg?larger=true
-      url: https://www.remove.bg
-      description: ''
-    - title: Easypic
-      logo: https://www.faviconextractor.com/favicon/www.easypic.cc?larger=true
-      url: https://www.easypic.cc
-      description: ''
-    - title: Picwish
-      logo: https://www.faviconextractor.com/favicon/picwish.com?larger=true
-      url: https://picwish.com
-      description: ''
-    - title: PhotoScissors
-      logo: https://www.faviconextractor.com/favicon/photoscissors.com?larger=true
-      url: https://photoscissors.com
-      description: ''
-    - title: Slazzer
-      logo: https://www.faviconextractor.com/favicon/www.slazzer.com?larger=true
-      url: https://www.slazzer.com
-      description: ''
-    - title: iLoveIMG
-      logo: https://www.faviconextractor.com/favicon/www.iloveimg.com?larger=true
-      url: https://www.iloveimg.com/zh-cn
-      description: ''
-    - title: GIF Kit
-      logo: https://www.faviconextractor.com/favicon/gifkit.com?larger=true
-      url: https://gifkit.com/zh
-      description: ''
-    - title: GIF压缩
-      logo: https://www.faviconextractor.com/favicon/gifcompressor.com?larger=true
-      url: https://gifcompressor.com/zh
-      description: ''
     - title: 白日梦AI
       logo: https://www.faviconextractor.com/favicon/aibrm.com?larger=true
-      url: https://aibrm.com/?code=gz_gptxgeek
-      description: ''
+      url: https://aibrm.com
+      description: 白日梦AI是一款全新的文生视频类AIGC创作平台。支持功能有：文生视频、动态画面、AI角色生成、人物/场景一致性...更多功能，等你来发现！
     - title: 有言AI
       logo: https://www.faviconextractor.com/favicon/www.youyan3d.com?larger=true
-      url: https://www.youyan3d.com/platform/?utm_source=zhanwaidaoliu&utm_campaign=zwj&utm_content=gptxgeek&from=gptxgeek
-      description: ''
+      url: https://www.youyan3d.com/platform
+      description: 一站式AI视频创作和3D数字人生成平台。有言创作视频,无需拍摄,无需真人出镜,上千个高质量超写实3D拟人角色库可供选择。
     - title: 声动视界
       logo: https://www.faviconextractor.com/favicon/soundviewai.com?larger=true
       url: https://soundviewai.com/invitation?inviteCode=H62wJgJBP&from=gptxgeek
-      description: ''
+      description: 视频翻译、视频配音、语音克隆、短视频脚本、智能字幕
     - title: 讯飞绘镜
       logo: https://www.faviconextractor.com/favicon/typemovie.art?larger=true
       url: https://typemovie.art/?utm_source=nt-ai10#/dashboard
-      description: ''
-    - title: 小浣熊AI
-      logo: https://www.faviconextractor.com/favicon/raccoon.sensetime.com?larger=true
-      url: https://raccoon.sensetime.com/login
-      description: ''
-    - title: Trae
-      logo: https://www.faviconextractor.com/favicon/www.trae.ai?larger=true
-      url: https://www.trae.ai/?utm_source=ads&utm_medium=gptxgeek_trae
-      description: ''
-    - title: 豆包MarsCode
-      logo: https://www.faviconextractor.com/favicon/www.marscode.cn?larger=true
-      url: https://www.marscode.cn/?utm_source=advertising&utm_medium=gptxgeek.cn_ug_cpa&utm_term=hw_marscode_gptxgeek&utm_content=home
-      description: ''
-    - title: CodeFuse
-      logo: https://www.faviconextractor.com/favicon/codefuse.alipay.com?larger=true
-      url: https://codefuse.alipay.com/?ref=gptxgeek
-      description: ''
-    - title: 声动视界
-      logo: https://www.faviconextractor.com/favicon/soundviewai.com?larger=true
-      url: https://soundviewai.com/invitation?inviteCode=H62wJgJBP&from=gptxgeek
-      description: ''
-    - title: Google翻译
-      logo: https://www.faviconextractor.com/favicon/translate.google.com?larger=true
-      url: https://translate.google.com/?ref=gptxgeek
-      description: ''
-    - title: 微软翻译
-      logo: https://www.faviconextractor.com/favicon/cn.bing.com?larger=true
-      url: https://cn.bing.com/translator?ref=gptxgeek
-      description: ''
-    - title: 有道翻译
-      logo: https://www.faviconextractor.com/favicon/fanyi.youdao.com?larger=true
-      url: https://fanyi.youdao.com/?from=gptxgeek
-      description: ''
-    - title: 百度翻译
-      logo: https://www.faviconextractor.com/favicon/fanyi.baidu.com?larger=true
-      url: https://fanyi.baidu.com/?from=gptxgeek
-      description: ''
-    - title: Audiobox
-      logo: https://www.faviconextractor.com/favicon/audiobox.metademolab.com?larger=true
-      url: https://audiobox.metademolab.com/?ref=gptxgeek
-      description: ''
-    - title: RESEMBLE.AI
-      logo: https://www.faviconextractor.com/favicon/www.resemble.ai?larger=true
-      url: https://www.resemble.ai/?ref=gptxgeek
-      description: ''
-    - title: AI算法刷题
-      logo: https://www.faviconextractor.com/favicon/www.marscode.cn?larger=true
-      url: https://www.marscode.cn/practice-intro?utm_source=advertising&utm_medium=gptxgeek.cn_ug_cpa&utm_term=hw_marscode_gptxgeek&utm_content=practic
-      description: ''
-    - title: Kaggle
-      logo: https://www.faviconextractor.com/favicon/www.kaggle.com?larger=true
-      url: https://www.kaggle.com/?ref=gptxgeek
-      description: ''
+      description: 简单描述即可一键生成短视频
+- taxonomy: AI写作工具
+  icon: fas fa-pen-nib
+  links:
+  - title: AI排版助手
+    logo: https://www.faviconextractor.com/favicon/www.135editor.com?larger=true
+    url: https://www.135editor.com/ai_editor/
+    description: 公众号AI排版：只需简单3步，输入文章主题、获取高质量文案、挑选模板，即可自动完成公众号文章的专业级排版
+  - title: 135小红书排版
+    logo: https://www.faviconextractor.com/favicon/www.135editor.com?larger=true
+    url: https://www.135editor.com/ai_editor/red-book/home
+    description: AI智能生成小红书笔记，优化排版，爆款笔记轻松打造
+  - title: 讯飞文书
+    logo: https://www.faviconextractor.com/favicon/gw.iflydocs.com?larger=true
+    url: https://gw.iflydocs.com
+    description: 讯飞文书是基于讯飞星火大模型进行文书数据定制训练，面向文书写作群体推出的一款AI材料写作平台
+  - title: 笔灵AI写作
+    logo: https://www.faviconextractor.com/favicon/ibiling.cn?larger=true
+    url: https://ibiling.cn
+    description: 全能型AI写作工具，AI 文章撰写、AI 论文写作、AI小说写作、文章降重降AI等
+  - title: 百度文库AI助手
+    logo: https://www.faviconextractor.com/favicon/wenku.baidu.com?larger=true
+    url: https://wenku.baidu.com/ndlaunch/browse/chat?fr=dist_wk_aiasis&dist_source=kfpt-WD&utm_account=dist&keyword=PPT&searchFr=1&third_id=wkds_817df20669eae009581becb6_400000224
+    description: 一站式AI内容获取与创作平台
+  - title: 万彩AI
+    logo: https://www.faviconextractor.com/favicon/ai.kezhan365.com?larger=true
+    url: https://ai.kezhan365.com
+    description: AI免费写作生成视频，万彩AI集成了AI写作、AI换脸、照片数字人制作和AI短视频等AI功能
+  - title: 光速写作
+    logo: https://www.faviconextractor.com/favicon/www.guangsuxie.com?larger=true
+    url: https://www.guangsuxie.com/static/college-write-web/home?from=gptxgeek
+    description: AI打工神器，一键生成文章和ppt
+  - title: 讯飞写作
+    logo: https://www.faviconextractor.com/favicon/huixie.iflyrec.com?larger=true
+    url: https://huixie.iflyrec.com/list?from=aidh08
+    description: 免费AI智能写作助手，提供会议纪要、公文写作、工作总结、心得体会、新闻稿、论文摘要等AI写作功能
+  - title: 讯飞绘文
+    logo: https://www.faviconextractor.com/favicon/turbodesk.xfyun.cn?larger=true
+    url: https://turbodesk.xfyun.cn
+    description: 讯飞免费AI写作软件，集AI写作，选题，配图，排版，润色，发布等功能为一体的智能创作平台
+  - title: 言笔AI写作
+    logo: https://www.faviconextractor.com/favicon/www.yanbiai.com?larger=true
+    url: https://www.yanbiai.com/?ly=gptxgeek
+    description: 基于Deepseek技术的AI写作助手，免费一键生成高质量文章
+  - title: Effidit
+    logo: https://www.faviconextractor.com/favicon/effidit.qq.com?larger=true
+    url: https://effidit.qq.com
+    description: Effidit是由腾讯AI Lab开发的在线AI创作系统，支持免费在线问答
+- taxonomy: AI论文工具
+  icon: fas fa-graduation-cap
+  links:
+  - title: AIPaperPass
+    logo: https://www.faviconextractor.com/favicon/www.aipaperpass.com?larger=true
+    url: https://www.aipaperpass.com
+    description: AI无限免费改稿平台！5分钟5万字！包含图、表、数据、代码、公式！aigc超25%退费！
+  - title: 笔灵AI论文
+    logo: https://www.faviconextractor.com/favicon/ibiling.cn?larger=true
+    url: https://ibiling.cn/paper
+    description: 免费生成千字论文大纲，AI一键生成4w字毕业论文、课题论文、期末论文等
+  - title: Aibiye论文自动生成
+    logo: https://www.faviconextractor.com/favicon/www.aibiye.com?larger=true
+    url: https://www.aibiye.com/
+    description: Aibiye是一款能够一键生成万字的AI学术辅写工具，可以自动完成开题报告、开题报告、选题大纲（免费）、论文初稿范文等
+  - title: 摆平AI论文
+    logo: https://www.faviconextractor.com/favicon/baipingai.com?larger=true
+    url: https://baipingai.com/paper/paper-sc
+    description: 一键生成万字毕业、期末、专升本论文，降重、改写、续写，提供40＋写作模板
+  - title: 包阅AI
+    logo: https://www.faviconextractor.com/favicon/baoyueai.com?larger=true
+    url: https://baoyueai.com/home/scenes
+    description: 免费论文对照翻译，改写润色，专业术语详解，选题评估，开题报告分析，评审校对，一站式解决论文烦恼！
+- taxonomy: AI生成PPT
+  icon: far fa-keyboard
+  links:
+  - title: 比格AIPPT
+    logo: https://www.faviconextractor.com/favicon/www.bigppt.cn?larger=true
+    url: https://www.bigppt.cn
+    description: 一款AI在线制作PPT的网站，只需输入PPT主题，就能一键生成内容大纲并完成PPT的制作
+  - title: iSlide PPT
+    logo: https://www.faviconextractor.com/favicon/www.islide.cc?larger=true
+    url: https://www.islide.cc/
+    description: 一款由AI赋能的PPT制作工具，支持一句话、导入文件、上传模板生成PPT
+  - title: 轻竹AIPPT
+    logo: https://www.faviconextractor.com/favicon/www.qzoffice.com?larger=true
+    url: https://www.qzoffice.com/
+    description: 输入标题30秒自动生成PPT，适用于论文答辩、商业计划、述职汇报等场景，支持word转PPT，在线编辑自动排版
+  - title: ChatPPT
+    logo: https://www.faviconextractor.com/favicon/www.chat-ppt.com?larger=true
+    url: https://www.chat-ppt.com/
+    description: 免费体验生成PPT，接入超过350+指令集，可以在1分钟内完成全篇PPT生成、设计与排版
+  - title: 文多多AIPPT
+    logo: https://www.faviconextractor.com/favicon/docmee.cn?larger=true
+    url: https://docmee.cn/?source=gptxgeek
+    description: 一键生成PPT，用户只需输入标题或主题，AI技术就能自动生成完整的PPT演示文稿，大大节省了用户的时间
+  - title: 美间AIPPT
+    logo: https://www.faviconextractor.com/favicon/www.meijian.com?larger=true
+    url: https://www.meijian.com/ai
+    description: 免费快速生成PPT、美化PPT
+  - title: 笔灵AIPPT
+    logo: https://www.faviconextractor.com/favicon/ibiling.cn?larger=true
+    url: https://ibiling.cn/ppt-zone
+    description: 1分钟速成精美PPT+千字自述稿件，工作汇报、转正晋升、学术答辩等PPT
+  - title: AIPPT
+    logo: https://www.faviconextractor.com/favicon/www.aippt.cn?larger=true
+    url: https://www.aippt.cn/api/share/page
+    description: 一键生成高质量PPT，无论是职场展示、教育课件还是销售报告，均能快速生成符合需求的专业PPT
+- taxonomy: AI编程工具
+  icon: fas fa-laptop-code
+  links:
+  - title: 小浣熊AI
+    logo: https://www.faviconextractor.com/favicon/raccoon.sensetime.com?larger=true
+    url: https://raccoon.sensetime.com/login?utm_source=bljuly04
+    description: 小浣熊是基于商汤自研大语言模型的智能助手，满足用户代码编写、数据分析、编程学习等各类需求
+  - title: Trae
+    logo: https://www.faviconextractor.com/favicon/www.trae.ai?larger=true
+    url: https://www.trae.ai/?utm_source=ads&utm_medium=gptxgeek_trae
+    description: 字节跳动推出的免费AI编程工具
+  - title: 豆包MarsCode
+    logo: https://www.faviconextractor.com/favicon/www.marscode.cn?larger=true
+    url: https://www.marscode.cn/?utm_source=advertising&utm_medium=gtxgeek.com_ug_cpa&utm_term=hw_marscode_gptxgeek&utm_content=home
+    description: 豆包旗下的编程助手，提供智能补全、智能预测、智能问答等能力，节省开发时间，释放脑海中的创造力
+  - title: CodeFuse
+    logo: https://www.faviconextractor.com/favicon/codefuse.alipay.com?larger=true
+    url: https://codefuse.alipay.com/?ref=gtxgeek.com
+    description: 蚂蚁集团研发的国产化代码大模型，专注满足金融级开发合规要求
+- taxonomy: AI语言翻译
+  icon: fas fa-language
+  links:
+  - title: 声动视界
+    logo: https://www.faviconextractor.com/favicon/soundviewai.com?larger=true
+    url: https://soundviewai.com/invitation?inviteCode=H62wJgJBP&from=gptxgeek
+    description: 视频翻译、视频配音、语音克隆、短视频脚本、智能字幕
+  - title: Google翻译
+    logo: https://www.faviconextractor.com/favicon/translate.google.com?larger=true
+    url: https://translate.google.com/?ref=gtxgeek.com
+    description: Google 免费即时翻译，支持100多种语言
+  - title: 微软翻译
+    logo: https://www.faviconextractor.com/favicon/cn.bing.com?larger=true
+    url: https://cn.bing.com/translator?ref=gtxgeek.com
+    description: 微软旗下免费AI在线翻译网站
+  - title: 有道翻译
+    logo: https://www.faviconextractor.com/favicon/fanyi.youdao.com?larger=true
+    url: https://fanyi.youdao.com/?from=gtxgeek.com
+    description: 免费AI在线及时翻译
+  - title: 百度翻译
+    logo: https://www.faviconextractor.com/favicon/fanyi.baidu.com?larger=true
+    url: https://fanyi.baidu.com/?from=gtxgeek.com
+    description: 百度旗下免费AI在线翻译网站
+- taxonomy: AI音频工具
+  icon: far fa-file-audio
+  links:
+  - title: Audiobox
+    logo: https://www.faviconextractor.com/favicon/audiobox.metademolab.com?larger=true
+    url: https://audiobox.metademolab.com/?ref=gtxgeek.com
+    description: Meta推出的免费开源AI语音模型，支持快速生成声音
+  - title: RESEMBLE.AI
+    logo: https://www.faviconextractor.com/favicon/www.resemble.ai?larger=true
+    url: https://www.resemble.ai/?ref=gtxgeek.com
+    description: AI声音生成工具，在几分钟内创建AI声音
+- taxonomy: AI学习平台
+  icon: fas fa-school
+  links:
+  - title: AI算法刷题
+    logo: https://www.faviconextractor.com/favicon/www.marscode.cn?larger=true
+    url: https://www.marscode.cn/practice-intro?utm_source=advertising&utm_medium=gtxgeek.com_ug_cpa&utm_term=hw_marscode_gptxgeek&utm_content=practic
+    description: AI 代码陪练，100 道大厂真题，助你高效掌握算法知识，顺利拿到自己的心仪 offer！
+  - title: Kaggle
+    logo: https://www.faviconextractor.com/favicon/www.kaggle.com?larger=true
+    url: https://www.kaggle.com/?ref=gtxgeek.com
+    description: 人工智能和机器学习社区，发现最新模型、数据和代码库
+    
 
         
