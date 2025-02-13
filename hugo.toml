@@ -27,8 +27,7 @@ enableRobotsTXT       = true
     baiduhmid       = ''	# 百度统计 hm.src 的 ID
     baiduSiteVer    = ''			# 百度HTML标签验证(baidu-site-verification)
     googleSiteVer   = 'S0kWM0DJCy1Xtqih9cNJiKevjxfxT3HZdgJNPrJpIYo' # Google search console
-    tj51laid        = ''                        		# 51.LA 网站统计
-    tj51lack        = ''
+    googleGtag       = 'G-0RJVNC6PJ6'					# Google Analytics
     GoogleAdsClient = ''					# Google AdSense 
 
 [params.qweather]
