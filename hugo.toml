@@ -10,7 +10,7 @@ enableRobotsTXT       = true
 
 [params]
     author        = "yikai"
-    description   = "GPTXGeek | AI tools | AI工具"
+    description   = "AI工具 |GPTXGeek | AI tools"
     upload        = "https://github.com/martianyi/gptxgeek/discussions/2"      # 左侧导航栏的"网站提交"
     about         = ""	          # 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/martianyi/gptxgeek"  
@@ -46,4 +46,4 @@ enableRobotsTXT       = true
     unsafe = true
 
 [params.footer]
-    copyright = '&copy; {year} GPTXGeek By [Yi Kai](https://github.com/martianyi) <br/>'
+    copyright = '&copy; {year} GPTXGeek, All Rights Reserved. <br/>'

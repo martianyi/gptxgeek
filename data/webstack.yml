@@ -19,248 +19,9 @@
       logo: https://www.faviconextractor.com/favicon/www.deepseek.com?larger=true
       title: Deepseek
       url: https://www.deepseek.com/?from=gptxgeek
-- taxonomy: AI对话聊天
-  icon: far fa-comments
-  links:
-  - title: 问小白
-    logo: https://www.faviconextractor.com/favicon/www.wenxiaobai.com?larger=true
-    url: https://www.wenxiaobai.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: DeepSeek免费不限次数快速回答，支持深度思考和联网搜索
-  - title: Molica AI
-    logo: https://www.faviconextractor.com/favicon/wx.molica.com.cn?larger=true
-    url: https://wx.molica.com.cn/web/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 集大成于一身的AI工具合集。包含ChatGPT、Midjourney、Suno、Luma、Claude、Gemini、Kimi、豆包、通义千问、文小言等，全球10多款先进的AI工具
-  - title: 智谱清言
-    logo: https://www.faviconextractor.com/favicon/chatglm.paluai.com?larger=true
-    url: https://chatglm.paluai.com/aito?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 免费全能的AI助手，支持AI图片、视频生成
-  - title: 豆包AI
-    logo: https://www.faviconextractor.com/favicon/doubao.paluai.com?larger=true
-    url: https://doubao.paluai.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 抖音旗下的免费AI聊天智能对话问答助手，ChatGPT国内平替产品
-  - title: 逗逗AI
-    logo: https://www.faviconextractor.com/favicon/www.doudou.fun?larger=true
-    url: https://www.doudou.fun/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 有趣的AI桌宠应用，陪你玩游戏！
-  - title: 厉害猫
-    logo: https://www.faviconextractor.com/favicon/www.lihaimao.com?larger=true
-    url: https://www.lihaimao.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AIGC平台，对接了厉害猫AI、GPT3.5、GPT4O、通义千问、Kimi、文心一言、讯飞星火、智谱清言、ChatGLM9个大模型
-  - title: ChatGAi
-    logo: https://www.faviconextractor.com/favicon/chat.doltrans.com?larger=true
-    url: https://chat.doltrans.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 集成Ai聊天、Ai创作、Ai绘画助理、Ai私人助理等功能
-  - title: Deepseek
-    logo: https://www.faviconextractor.com/favicon/www.deepseek.com?larger=true
-    url: https://www.deepseek.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: Deepseek-探索未至之境，国产对标ChatGPT的AI模型
-  - title: Kimi
-    logo: https://www.faviconextractor.com/favicon/kimi.moonshot.cn?larger=true
-    url: https://kimi.moonshot.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: Kimi智能搜索，一问即答——信息洪流也不怕
-  - title: 讯飞星火AI
-    logo: https://www.faviconextractor.com/favicon/xinghuo.xfyun.cn?larger=true
-    url: https://xinghuo.xfyun.cn/sparkapi?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 国内自研免费GPT模型，支持AI问答，编写代码，AI绘画等，提供免费API调用
-  - title: 天工AI助手
-    logo: https://www.faviconextractor.com/favicon/www.tiangong.cn?larger=true
-    url: https://www.tiangong.cn?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 「天工」是国内首个对标 ChatGPT 的双千亿级大语言模型，支持免费在线使用
-  - title: 智谱清言
-    logo: https://www.faviconextractor.com/favicon/chatglm.paluai.com?larger=true
-    url: https://chatglm.paluai.com/zhipu?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 免费全能的AI助手，支持AI绘画、视频生成
-  - title: 豆包
-    logo: https://www.faviconextractor.com/favicon/dis.haodxi.cn?larger=true
-    url: http://dis.haodxi.cn/dbff/dbaiboa2.html?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 字节跳动推出的免费AI智能助手
-  - title: 问小白
-    logo: https://www.faviconextractor.com/favicon/wenxiaobai.paluai.com?larger=true
-    url: https://wenxiaobai.paluai.com/aibot?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 免费全能AI助手，已接入DeepSeek-R1满血版
-  - title: 逗逗
-    logo: https://www.faviconextractor.com/favicon/doudou.paluai.com?larger=true
-    url: https://doudou.paluai.com/web_aitool?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI游戏陪玩，支持原神、黑神话、LOL！
-  - title: Kimi智能助手
-    logo: https://www.faviconextractor.com/favicon/kimi.paluai.com?larger=true
-    url: https://kimi.paluai.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 一次搜索可精读500个页面，会推理解析，能深度思考的AI助手
-  - title: DeepSeek
-    logo: https://www.faviconextractor.com/favicon/www.deepseek.com?larger=true
-    url: https://www.deepseek.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 幻方量化旗下深度求索推出的开源大模型和聊天助手
-  - title: 海螺AI
-    logo: https://www.faviconextractor.com/favicon/hailuoai.com?larger=true
-    url: https://hailuoai.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: MiniMax推出的免费AI智能聊天助理
-  - title: 腾讯元宝
-    logo: https://www.faviconextractor.com/favicon/yuanbao.tencent.com?larger=true
-    url: https://yuanbao.tencent.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 腾讯推出的免费AI智能助手
-  - title: 通义千问
-    logo: https://www.faviconextractor.com/favicon/tongyi.aliyun.com?larger=true
-    url: https://tongyi.aliyun.com/qianwen/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 阿里推出的自研大模型，通情、达义，你的全能AI助手！
-  - title: 讯飞星火
-    logo: https://www.faviconextractor.com/favicon/xinghuo.xfyun.cn?larger=true
-    url: https://xinghuo.xfyun.cn/desk?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 科大讯飞推出的AI智能助手
-  - title: 华为小艺
-    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
-    url: https://ai-bot.cn/huawei-xiaoyi?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 华为旗下小艺AI助手网页端，已接入DeepSeek-R1
-  - title: 文心一言
-    logo: https://www.faviconextractor.com/favicon/yiyan.baidu.com?larger=true
-    url: https://yiyan.baidu.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 百度推出的基于文心大模型的AI对话互动工具
-  - title: 跃问
-    logo: https://www.faviconextractor.com/favicon/yuewen.cn?larger=true
-    url: https://yuewen.cn/chats/new?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 阶跃星辰推出的支持多模态的AI聊天机器人
-  - title: 百小应
-    logo: https://www.faviconextractor.com/favicon/ying.baichuan-ai.com?larger=true
-    url: https://ying.baichuan-ai.com/chat?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 百川智能推出的免费AI助手
-  - title: 天工AI
-    logo: https://www.faviconextractor.com/favicon/www.tiangong.cn?larger=true
-    url: https://www.tiangong.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 昆仑万维推出的AI智能助手
-  - title: Copilot
-    logo: https://www.faviconextractor.com/favicon/copilot.microsoft.com?larger=true
-    url: https://copilot.microsoft.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 微软推出的网页版Copilot助手
-  - title: Grok
-    logo: https://www.faviconextractor.com/favicon/x.ai?larger=true
-    url: https://x.ai/grok?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 马斯克旗下xAI推出的人工智能助手
-  - title: Gemini
-    logo: https://www.faviconextractor.com/favicon/deepmind.google?larger=true
-    url: https://deepmind.google/technologies/gemini?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: Google推出的AI聊天对话机器人Gemini
-  - title: Qwen Chat
-    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
-    url: https://ai-bot.cn/qwen-chat?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 阿里通义推出的 Qwen AI 大模型Web UI界面
-  - title: J1 Assistant
-    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
-    url: https://ai-bot.cn/j1-assistant?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 罗永浩旗下 Jarvis 项目推出的 AI 智能助手
-  - title: Meta AI助手
-    logo: https://www.faviconextractor.com/favicon/www.meta.ai?larger=true
-    url: https://www.meta.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: Meta推出的免费AI聊天助手
-  - title: Koko AI
-    logo: https://www.faviconextractor.com/favicon/www.seeles.ai?larger=true
-    url: https://www.seeles.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: Seele公司推出的「AI+3D」情感陪伴产品
-  - title: Ohai
-    logo: https://www.faviconextractor.com/favicon/beta.ohai.bot?larger=true
-    url: https://beta.ohai.bot/discover?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 月之暗面旗下推出的AI角色扮演虚拟陪伴应用
-  - title: Me.bot
-    logo: https://www.faviconextractor.com/favicon/www.me.bot?larger=true
-    url: https://www.me.bot/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 心识宇宙推出的个性化AI伴侣产品
-  - title: Saylo
-    logo: https://www.faviconextractor.com/favicon/www.sayloai.com?larger=true
-    url: https://www.sayloai.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI驱动的故事角色扮演游戏应用，沉浸式的剧本互动体验
-  - title: 通义星尘
-    logo: https://www.faviconextractor.com/favicon/tongyi.aliyun.com?larger=true
-    url: https://tongyi.aliyun.com/xingchen/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 用AI定制属于你自己的IP角色
-  - title: CueMe
-    logo: https://www.faviconextractor.com/favicon/cueme.cn?larger=true
-    url: https://cueme.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 夸克推出的AI智能对话助手，支持2万字长文写作
-  - title: 造梦次元
-    logo: https://www.faviconextractor.com/favicon/ciyuan.ideaflow.pro?larger=true
-    url: https://ciyuan.ideaflow.pro/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI互动内容平台，虚拟角色逗你开心
-  - title: Museland
-    logo: https://www.faviconextractor.com/favicon/www.museland.ai?larger=true
-    url: https://www.museland.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 沉浸式AI角色扮演产品
-  - title: 百度AI助手
-    logo: https://www.faviconextractor.com/favicon/chat.baidu.com?larger=true
-    url: https://chat.baidu.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 百度推出的多场景AI智能体助手
-  - title: 商量SenseChat
-    logo: https://www.faviconextractor.com/favicon/chat.sensetime.com?larger=true
-    url: https://chat.sensetime.com/wb/home?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 商汤科技推出的免费AI聊天助手
-  - title: 小悟空
-    logo: https://www.faviconextractor.com/favicon/wukong.com?larger=true
-    url: https://wukong.com/tool?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 字节跳动推出的免费AI对话助手和个人助理
-  - title: 紫东太初
-    logo: https://www.faviconextractor.com/favicon/taichu-web.ia.ac.cn?larger=true
-    url: https://taichu-web.ia.ac.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 中科院与武智院推出的千亿参数全模态大模型和助手
-  - title: 小黄蕉
-    logo: https://www.faviconextractor.com/favicon/chatwiz.cn?larger=true
-    url: https://chatwiz.cn/h5/feely?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 字节跳动旗下推出的AI虚拟交友聊天平台
-  - title: 冒泡鸭
-    logo: https://www.faviconextractor.com/favicon/maopaoya.com?larger=true
-    url: https://maopaoya.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 阶跃星辰推出的AI聊天机器人和智能体平台
-  - title: Cici
-    logo: https://www.faviconextractor.com/favicon/www.ciciai.com?larger=true
-    url: https://www.ciciai.com/browser-extension/landing/zh/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 豆包国际版，字节跳动面向海外市场推出的AI助手
-  - title: 百川大模型
-    logo: https://www.faviconextractor.com/favicon/chat.baichuan-ai.com?larger=true
-    url: https://chat.baichuan-ai.com/home?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 百川智能推出的大模型助手，融合了意图理解、信息检索以及强化学习技术
 - taxonomy: AI写作工具
   icon: fas fa-pen-nib
   links:
-  - title: AI排版助手
-    logo: https://www.faviconextractor.com/favicon/www.135editor.com?larger=true
-    url: https://www.135editor.com/ai_editor/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 公众号AI排版：只需简单3步，输入文章主题、获取高质量文案、挑选模板，即可自动完成公众号文章的专业级排版
-  - title: 135小红书排版
-    logo: https://www.faviconextractor.com/favicon/www.135editor.com?larger=true
-    url: https://www.135editor.com/ai_editor/red-book/home/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI智能生成小红书笔记，优化排版，爆款笔记轻松打造
-  - title: 讯飞文书
-    logo: https://www.faviconextractor.com/favicon/gw.iflydocs.com?larger=true
-    url: https://gw.iflydocs.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 讯飞文书是基于讯飞星火大模型进行文书数据定制训练，面向文书写作群体推出的一款AI材料写作平台
-  - title: 笔灵AI写作
-    logo: https://www.faviconextractor.com/favicon/ibiling.cn?larger=true
-    url: https://ibiling.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 全能型AI写作工具，AI 文章撰写、AI 论文写作、AI小说写作、文章降重降AI等
-  - title: 百度文库AI助手
-    logo: https://www.faviconextractor.com/favicon/wenku.baidu.com?larger=true
-    url: https://wenku.baidu.com/ndlaunch/browse/chat?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 一站式AI内容获取与创作平台
-  - title: 万彩AI
-    logo: https://www.faviconextractor.com/favicon/ai.kezhan365.com?larger=true
-    url: https://ai.kezhan365.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI免费写作生成视频，万彩AI集成了AI写作、AI换脸、照片数字人制作和AI短视频等AI功能
-  - title: 光速写作
-    logo: https://www.faviconextractor.com/favicon/www.guangsuxie.com?larger=true
-    url: https://www.guangsuxie.com/static/college-write-web/home?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI打工神器，一键生成文章和ppt
-  - title: 讯飞写作
-    logo: https://www.faviconextractor.com/favicon/huixie.iflyrec.com?larger=true
-    url: https://huixie.iflyrec.com/list?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 免费AI智能写作助手，提供会议纪要、公文写作、工作总结、心得体会、新闻稿、论文摘要等AI写作功能
-  - title: 讯飞绘文
-    logo: https://www.faviconextractor.com/favicon/turbodesk.xfyun.cn?larger=true
-    url: https://turbodesk.xfyun.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 讯飞免费AI写作软件，集AI写作，选题，配图，排版，润色，发布等功能为一体的智能创作平台
-  - title: 言笔AI写作
-    logo: https://www.faviconextractor.com/favicon/www.yanbiai.com?larger=true
-    url: https://www.yanbiai.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 基于Deepseek技术的AI写作助手，免费一键生成高质量文章
-  - title: Effidit
-    logo: https://www.faviconextractor.com/favicon/effidit.qq.com?larger=true
-    url: https://effidit.qq.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: Effidit是由腾讯AI Lab开发的在线AI创作系统，支持免费在线问答
   - title: 笔灵AI写作
     logo: https://www.faviconextractor.com/favicon/ibiling.cn?larger=true
     url: https://ibiling.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
@@ -405,83 +166,33 @@
     logo: https://www.faviconextractor.com/favicon/vt.quark.cn?larger=true
     url: https://vt.quark.cn/blm/creator-773/index?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
     description: 夸克推出的AI写作工具
-- taxonomy: AI论文工具
-  icon: fas fa-graduation-cap
-  links:
-  - title: AIPaperPass
-    logo: https://www.faviconextractor.com/favicon/www.aipaperpass.com?larger=true
-    url: https://www.aipaperpass.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI无限免费改稿平台！5分钟5万字！包含图、表、数据、代码、公式！aigc超25%退费！
-  - title: 笔灵AI论文
-    logo: https://www.faviconextractor.com/favicon/ibiling.cn?larger=true
-    url: https://ibiling.cn/paper?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 免费生成千字论文大纲，AI一键生成4w字毕业论文、课题论文、期末论文等
-  - title: Aibiye论文自动生成
-    logo: https://www.faviconextractor.com/favicon/www.aibiye.com?larger=true
-    url: https://www.aibiye.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: Aibiye是一款能够一键生成万字的AI学术辅写工具，可以自动完成开题报告、开题报告、选题大纲（免费）、论文初稿范文等
-  - title: 摆平AI论文
-    logo: https://www.faviconextractor.com/favicon/baipingai.com?larger=true
-    url: https://baipingai.com/paper/paper-sc?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 一键生成万字毕业、期末、专升本论文，降重、改写、续写，提供40＋写作模板
-  - title: 包阅AI
-    logo: https://www.faviconextractor.com/favicon/baoyueai.com?larger=true
-    url: https://baoyueai.com/home/scenes?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 免费论文对照翻译，改写润色，专业术语详解，选题评估，开题报告分析，评审校对，一站式解决论文烦恼！
-- taxonomy: AI生成PPT
-  icon: far fa-keyboard
-  links:
-  - title: 比格AIPPT
-    logo: https://www.faviconextractor.com/favicon/www.bigppt.cn?larger=true
-    url: https://www.bigppt.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 一款AI在线制作PPT的网站，只需输入PPT主题，就能一键生成内容大纲并完成PPT的制作
-  - title: iSlide PPT
-    logo: https://www.faviconextractor.com/favicon/www.islide.cc?larger=true
-    url: https://www.islide.cc/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 一款由AI赋能的PPT制作工具，支持一句话、导入文件、上传模板生成PPT
-  - title: 轻竹AIPPT
-    logo: https://www.faviconextractor.com/favicon/www.qzoffice.com?larger=true
-    url: https://www.qzoffice.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 输入标题30秒自动生成PPT，适用于论文答辩、商业计划、述职汇报等场景，支持word转PPT，在线编辑自动排版
-  - title: ChatPPT
-    logo: https://www.faviconextractor.com/favicon/www.chat-ppt.com?larger=true
-    url: https://www.chat-ppt.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 免费体验生成PPT，接入超过350+指令集，可以在1分钟内完成全篇PPT生成、设计与排版
-  - title: 文多多AIPPT
-    logo: https://www.faviconextractor.com/favicon/docmee.cn?larger=true
-    url: https://docmee.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 一键生成PPT，用户只需输入标题或主题，AI技术就能自动生成完整的PPT演示文稿，大大节省了用户的时间
-  - title: 美间AIPPT
-    logo: https://www.faviconextractor.com/favicon/www.meijian.com?larger=true
-    url: https://www.meijian.com/ai?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 免费快速生成PPT、美化PPT
-  - title: 笔灵AIPPT
-    logo: https://www.faviconextractor.com/favicon/ibiling.cn?larger=true
-    url: https://ibiling.cn/ppt-zone?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 1分钟速成精美PPT+千字自述稿件，工作汇报、转正晋升、学术答辩等PPT
-  - title: AIPPT
-    logo: https://www.faviconextractor.com/favicon/www.aippt.cn?larger=true
-    url: https://www.aippt.cn/api/share/page?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 一键生成高质量PPT，无论是职场展示、教育课件还是销售报告，均能快速生成符合需求的专业PPT
+  - title: AI排版助手
+    logo: https://www.faviconextractor.com/favicon/www.135editor.com?larger=true
+    url: https://www.135editor.com/ai_editor/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 公众号AI排版：只需简单3步，输入文章主题、获取高质量文案、挑选模板，即可自动完成公众号文章的专业级排版
+  - title: 135小红书排版
+    logo: https://www.faviconextractor.com/favicon/www.135editor.com?larger=true
+    url: https://www.135editor.com/ai_editor/red-book/home/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI智能生成小红书笔记，优化排版，爆款笔记轻松打造
+  - title: 百度文库AI助手
+    logo: https://www.faviconextractor.com/favicon/wenku.baidu.com?larger=true
+    url: https://wenku.baidu.com/ndlaunch/browse/chat?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 一站式AI内容获取与创作平台
+  - title: 万彩AI
+    logo: https://www.faviconextractor.com/favicon/ai.kezhan365.com?larger=true
+    url: https://ai.kezhan365.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI免费写作生成视频，万彩AI集成了AI写作、AI换脸、照片数字人制作和AI短视频等AI功能
+  - title: 言笔AI写作
+    logo: https://www.faviconextractor.com/favicon/www.yanbiai.com?larger=true
+    url: https://www.yanbiai.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 基于Deepseek技术的AI写作助手，免费一键生成高质量文章
+  - title: Effidit
+    logo: https://www.faviconextractor.com/favicon/effidit.qq.com?larger=true
+    url: https://effidit.qq.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: Effidit是由腾讯AI Lab开发的在线AI创作系统，支持免费在线问答
 - taxonomy: AI视频工具
   icon: fas fa-video
   links:
-  - title: 白日梦AI
-    logo: https://www.faviconextractor.com/favicon/aibrm.com?larger=true
-    url: https://aibrm.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 白日梦AI是一款全新的文生视频类AIGC创作平台。支持功能有：文生视频、动态画面、AI角色生成、人物/场景一致性...更多功能，等你来发现！
-  - title: 有言AI
-    logo: https://www.faviconextractor.com/favicon/www.youyan3d.com?larger=true
-    url: https://www.youyan3d.com/platform/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 一站式AI视频创作和3D数字人生成平台。有言创作视频,无需拍摄,无需真人出镜,上千个高质量超写实3D拟人角色库可供选择。
-  - title: 声动视界
-    logo: https://www.faviconextractor.com/favicon/soundviewai.com?larger=true
-    url: https://soundviewai.com/invitation?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 视频翻译、视频配音、语音克隆、短视频脚本、智能字幕
-  - title: 讯飞绘镜
-    logo: https://www.faviconextractor.com/favicon/typemovie.art?larger=true
-    url: https://typemovie.art/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 简单描述即可一键生成短视频
   - title: 智谱清影
     logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
     url: https://ai-bot.cn/chatglm-video?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
@@ -646,499 +357,12 @@
     logo: https://www.faviconextractor.com/favicon/etna.7volcanoes.com?larger=true
     url: https://etna.7volcanoes.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
     description: 七火山科技推出的AI文生视频工具
-- taxonomy: AI编程工具
-  icon: fas fa-laptop-code
-  links:
-  - title: 小浣熊AI
-    logo: https://www.faviconextractor.com/favicon/raccoon.sensetime.com?larger=true
-    url: https://raccoon.sensetime.com/login?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 小浣熊是基于商汤自研大语言模型的智能助手，满足用户代码编写、数据分析、编程学习等各类需求
-  - title: Trae
-    logo: https://www.faviconextractor.com/favicon/www.trae.ai?larger=true
-    url: https://www.trae.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 字节跳动推出的免费AI编程工具
-  - title: 豆包MarsCode
-    logo: https://www.faviconextractor.com/favicon/www.marscode.cn?larger=true
-    url: https://www.marscode.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 豆包旗下的编程助手，提供智能补全、智能预测、智能问答等能力，节省开发时间，释放脑海中的创造力
-  - title: CodeFuse
-    logo: https://www.faviconextractor.com/favicon/codefuse.alipay.com?larger=true
-    url: https://codefuse.alipay.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 蚂蚁集团研发的国产化代码大模型，专注满足金融级开发合规要求
-  - title: Trae
-    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
-    url: https://ai-bot.cn/trae?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 字节跳动推出的免费AI编程工具，基于Claude模型
-  - title: 通义灵码
-    logo: https://www.faviconextractor.com/favicon/click.aliyun.com?larger=true
-    url: https://click.aliyun.com/m/1000399943?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 阿里推出的免费AI编程工具，基于通义大模型
-  - title: 代码小浣熊
-    logo: https://www.faviconextractor.com/favicon/xiaohuanxiong.paluai.com?larger=true
-    url: https://xiaohuanxiong.paluai.com/code?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 商汤科技推出的免费AI编程助手
-  - title: 豆包AI编程
-    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
-    url: https://ai-bot.cn/doubao-aicoding?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 豆包推出的AI编程新功能
-  - title: CodeWhisperer
-    logo: https://www.faviconextractor.com/favicon/aws.amazon.com?larger=true
-    url: https://aws.amazon.com/codewhisperer?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 亚马逊推出的免费AI编程助手
-  - title: GitHub Copilot
-    logo: https://www.faviconextractor.com/favicon/github.com?larger=true
-    url: https://github.com/features/copilot?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: GitHub推出的AI编程工具
-  - title: 豆包MarsCode
-    logo: https://www.faviconextractor.com/favicon/marscode.paluai.com?larger=true
-    url: https://marscode.paluai.com/doubao?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 字节推出的免费AI编程助手，基于豆包大模型
-  - title: 文心快码
-    logo: https://www.faviconextractor.com/favicon/comate.baidu.com?larger=true
-    url: https://comate.baidu.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 百度推出的AI编程助手，基于文心大模型
-  - title: Cursor
-    logo: https://www.faviconextractor.com/favicon/www.cursor.com?larger=true
-    url: https://www.cursor.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI代码编辑器，快速进行编程和软件开发
-  - title: Windsurf
-    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
-    url: https://ai-bot.cn/windsurf?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: Codeium公司推出的AI编程工具
-  - title: Bolt.new
-    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
-    url: https://ai-bot.cn/bolt%E2%80%A4new?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: StackBlitz 推出的全栈AI代码工具，可以看作 Artfacts、V0 和 Replit 的结合体
-  - title: Replit Agent
-    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
-    url: https://ai-bot.cn/replit-agent?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI初创公司Replit推出的AI编程工具
-  - title: Lovable
-    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
-    url: https://ai-bot.cn/lovable?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI编程工具，用自然对话快速构建网站和Web应用
-  - title: Junie
-    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
-    url: https://ai-bot.cn/junie?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: JetBrains 推出的 AI 编程助手
-  - title: CodeGeeX
-    logo: https://www.faviconextractor.com/favicon/codegeex.cn?larger=true
-    url: https://codegeex.cn/zh-CN?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 智谱AI推出的免费AI编程助手
-  - title: 腾讯云AI代码助手
-    logo: https://www.faviconextractor.com/favicon/cloud.tencent.com?larger=true
-    url: https://cloud.tencent.com/product/acc?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 腾讯推出的AI编程辅助工具
-  - title: Codeium
-    logo: https://www.faviconextractor.com/favicon/www.codeium.com?larger=true
-    url: https://www.codeium.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 免费的AI编程工具，智能生成和补全代码
-  - title: 码上飞
-    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
-    url: https://ai-bot.cn/codeflying?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI软件开发平台，一句话自动生成端到端应用
-  - title: Cody
-    logo: https://www.faviconextractor.com/favicon/about.sourcegraph.com?larger=true
-    url: https://about.sourcegraph.com/cody?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: Sourcegraph推出的免费AI编程工具
-  - title: DevChat
-    logo: https://www.faviconextractor.com/favicon/www.devchat.ai?larger=true
-    url: https://www.devchat.ai/zh?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 开源的支持多款大模型的AI编程助手
-  - title: CodiumAI
-    logo: https://www.faviconextractor.com/favicon/www.codium.ai?larger=true
-    url: https://www.codium.ai?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 免费的AI代码测试和分析工具
-  - title: Genie
-    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
-    url: https://ai-bot.cn/genie?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: Cosine AI推出的AI编程助手
-  - title: iFlyCode
-    logo: https://www.faviconextractor.com/favicon/iflycode.xfyun.cn?larger=true
-    url: https://iflycode.xfyun.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 科大讯飞推出的智能编程助手
-  - title: Twinny
-    logo: https://www.faviconextractor.com/favicon/twinny.dev?larger=true
-    url: https://twinny.dev/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 专为 VS Code 设计的AI代码补全插件
-  - title: Project IDX
-    logo: https://www.faviconextractor.com/favicon/idx.dev?larger=true
-    url: https://idx.dev/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 谷歌推出的AI云端开发和代码编辑器
-  - title: Sketch2Code
-    logo: https://www.faviconextractor.com/favicon/sketch2code.azurewebsites.net?larger=true
-    url: https://sketch2code.azurewebsites.net?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 微软AI Lab推出的将手绘草图转换成HTML代码工具
-  - title: CodeFuse
-    logo: https://www.faviconextractor.com/favicon/codefuse.alipay.com?larger=true
-    url: https://codefuse.alipay.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 蚂蚁集团推出的AI代码编程助手
-  - title: Tabby
-    logo: https://www.faviconextractor.com/favicon/tabby.tabbyml.com?larger=true
-    url: https://tabby.tabbyml.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 免费开源的自托管AI编程助手
-  - title: C知道
-    logo: https://www.faviconextractor.com/favicon/so.csdn.net?larger=true
-    url: https://so.csdn.net/chat?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: CSDN推出的AI技术问答工具
-  - title: 驭码CodeRider
-    logo: https://www.faviconextractor.com/favicon/coderider.gitlab.cn?larger=true
-    url: https://coderider.gitlab.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 极狐GitLab推出的AI编程与软件智能研发助手
-  - title: Duo Chat
-    logo: https://www.faviconextractor.com/favicon/about.gitlab.com?larger=true
-    url: https://about.gitlab.com/gitlab-duo/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: GitLab推出的AI编程助手
-  - title: CodeRabbit
-    logo: https://www.faviconextractor.com/favicon/coderabbit.ai?larger=true
-    url: https://coderabbit.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI驱动的代码审查平台
-  - title: Augment
-    logo: https://www.faviconextractor.com/favicon/www.augmentcode.com?larger=true
-    url: https://www.augmentcode.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI编程辅助工具，专为大型代码库设计
-  - title: Devin
-    logo: https://www.faviconextractor.com/favicon/preview.devin.ai?larger=true
-    url: https://preview.devin.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 首个全自主的AI软件工程师智能体
-  - title: Plandex
-    logo: https://www.faviconextractor.com/favicon/plandex.ai?larger=true
-    url: https://plandex.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 免费开源的基于终端的AI编程引擎
-  - title: Fitten Code
-    logo: https://www.faviconextractor.com/favicon/code.fittentech.com?larger=true
-    url: https://code.fittentech.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 非十科技推出的免费AI代码助手
-  - title: BLACKBOX AI
-    logo: https://www.faviconextractor.com/favicon/www.useblackbox.io?larger=true
-    url: https://www.useblackbox.io/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 黑箱AI编程助理，快速代码生成
-  - title: Solo
-    logo: https://www.faviconextractor.com/favicon/soloist.ai?larger=true
-    url: https://soloist.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: Mozilla推出的零编程无代码AI网站建设工具
-  - title: JetBrains AI
-    logo: https://www.faviconextractor.com/favicon/www.jetbrains.com?larger=true
-    url: https://www.jetbrains.com/ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: JetBrains推出的AI编程开发助手
-  - title: CodeArts Snap
-    logo: https://www.faviconextractor.com/favicon/www.huaweicloud.com?larger=true
-    url: https://www.huaweicloud.com/product/codeartside/snap.html?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 华为云推出的智能编程助手
-  - title: AskCodi
-    logo: https://www.faviconextractor.com/favicon/www.askcodi.com?larger=true
-    url: https://www.askcodi.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 你的个人AI编程助手
-  - title: v0.dev
-    logo: https://www.faviconextractor.com/favicon/v0.dev?larger=true
-    url: https://v0.dev/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI生成前端React/UI组件，由Vercel推出
-- taxonomy: AI思维导图
-  icon: far fa-star
-  links:
-  - title: 博思白板
-    logo: https://www.faviconextractor.com/favicon/boardmix.cn?larger=true
-    url: https://boardmix.cn/invitation/invitee/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI云端协作白板工具，支持团队在线实时创作与管理
-  - title: ProcessOn
-    logo: https://www.faviconextractor.com/favicon/www.processon.com?larger=true
-    url: https://www.processon.com/i/60797bec5653bb2e1c70c0c2?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 在线AI协作流程图与思维导图工具
-  - title: Whimsical
-    logo: https://www.faviconextractor.com/favicon/whimsical.com?larger=true
-    url: https://whimsical.com/ai-mind-maps/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI思维导图工具，实时协作与智能创意生成
-- taxonomy: AI语言翻译
-  icon: fas fa-language
-  links:
-  - title: 声动视界
-    logo: https://www.faviconextractor.com/favicon/soundviewai.com?larger=true
-    url: https://soundviewai.com/invitation?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 视频翻译、视频配音、语音克隆、短视频脚本、智能字幕
-  - title: Google翻译
-    logo: https://www.faviconextractor.com/favicon/translate.google.com?larger=true
-    url: https://translate.google.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: Google 免费即时翻译，支持100多种语言
-  - title: 微软翻译
-    logo: https://www.faviconextractor.com/favicon/cn.bing.com?larger=true
-    url: https://cn.bing.com/translator?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 微软旗下免费AI在线翻译网站
-  - title: 有道翻译
-    logo: https://www.faviconextractor.com/favicon/fanyi.youdao.com?larger=true
-    url: https://fanyi.youdao.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 免费AI在线及时翻译
-  - title: 百度翻译
-    logo: https://www.faviconextractor.com/favicon/fanyi.baidu.com?larger=true
-    url: https://fanyi.baidu.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 百度旗下免费AI在线翻译网站
-  - title: 沉浸式翻译
-    logo: https://www.faviconextractor.com/favicon/immersivetranslate.com?larger=true
-    url: https://immersivetranslate.com/zh-Hans/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 双语对照的网页翻译插件，完全免费 口碑炸裂！
-  - title: 会译
-    logo: https://www.faviconextractor.com/favicon/huiyiai.net?larger=true
-    url: https://huiyiai.net/hy_api/activity/invite?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 沉浸对照式AI翻译，支持100+语言
-  - title: 腾讯交互翻译
-    logo: https://www.faviconextractor.com/favicon/transmart.qq.com?larger=true
-    url: https://transmart.qq.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 腾讯推出的多语言AI翻译工具
-  - title: DeepTranslate
-    logo: https://www.faviconextractor.com/favicon/deeptranslate.ai?larger=true
-    url: https://deeptranslate.ai/zh-CN?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 免费的AI双语翻译器，支持142+种语言
-  - title: Google翻译
-    logo: https://www.faviconextractor.com/favicon/translate.google.com?larger=true
-    url: https://translate.google.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: Google免费提供的上百种语言智能翻译工具
-  - title: 必应翻译
-    logo: https://www.faviconextractor.com/favicon/www.bing.com?larger=true
-    url: https://www.bing.com/translator?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 微软必应推出的翻译工具
-  - title: DeepL翻译
-    logo: https://www.faviconextractor.com/favicon/www.deepl.com?larger=true
-    url: https://www.deepl.com/translator?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 准确的人工智能翻译工具
-  - title: Toby
-    logo: https://www.faviconextractor.com/favicon/www.trytoby.com?larger=true
-    url: https://www.trytoby.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI实时语音翻译工具，专为视频通话设计
-  - title: 火山翻译
-    logo: https://www.faviconextractor.com/favicon/translate.volcengine.com?larger=true
-    url: https://translate.volcengine.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 字节跳动推出的智能翻译工具
-  - title: 百度翻译
-    logo: https://www.faviconextractor.com/favicon/fanyi.baidu.com?larger=true
-    url: https://fanyi.baidu.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 200种语言互译、沟通全世界！
-  - title: 阿里翻译
-    logo: https://www.faviconextractor.com/favicon/translate.alibaba.com?larger=true
-    url: https://translate.alibaba.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 阿里巴巴达摩院推出的多领域多语种的在线机器翻译
-  - title: 搜狗翻译
-    logo: https://www.faviconextractor.com/favicon/fanyi.sogou.com?larger=true
-    url: https://fanyi.sogou.com/text?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 你的贴身智能翻译专家
-  - title: 腾讯翻译君
-    logo: https://www.faviconextractor.com/favicon/fanyi.qq.com?larger=true
-    url: https://fanyi.qq.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 你免费的随身翻译
-  - title: 象寄翻译
-    logo: https://www.faviconextractor.com/favicon/www.xiangjifanyi.com?larger=true
-    url: https://www.xiangjifanyi.com/console/register-invite/741be04feb30bf16?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI图片和视频翻译神器，支持多种语言的翻译
-  - title: 网易见外
-    logo: https://www.faviconextractor.com/favicon/sight.youdao.com?larger=true
-    url: https://sight.youdao.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 网易推出的AI智能翻译平台，支持音视频、文档、图片、字幕等翻译
-  - title: 讯飞智能翻译
-    logo: https://www.faviconextractor.com/favicon/fanyi.xfyun.cn?larger=true
-    url: https://fanyi.xfyun.cn/console/trans/text?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 科大讯飞推出的人工智能翻译平台
-  - title: 彩云小译
-    logo: https://www.faviconextractor.com/favicon/fanyi.caiyunapp.com?larger=true
-    url: https://fanyi.caiyunapp.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 兼具中日英同声传译、文档翻译和网页翻译的智能翻译工具
-  - title: 百度AI同传助手
-    logo: https://www.faviconextractor.com/favicon/fanyi.baidu.com?larger=true
-    url: https://fanyi.baidu.com/appdownload/download.html?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 中英文音视频同传字幕工具
-  - title: 金山快译
-    logo: https://www.faviconextractor.com/favicon/kuaiyi.wps.cn?larger=true
-    url: https://kuaiyi.wps.cn/txt-translate?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 金山WPS推出的在线翻译平台
-- taxonomy: AI音频工具
-  icon: far fa-file-audio
-  links:
-  - title: Audiobox
-    logo: https://www.faviconextractor.com/favicon/audiobox.metademolab.com?larger=true
-    url: https://audiobox.metademolab.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: Meta推出的免费开源AI语音模型，支持快速生成声音
-  - title: RESEMBLE.AI
-    logo: https://www.faviconextractor.com/favicon/www.resemble.ai?larger=true
-    url: https://www.resemble.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI声音生成工具，在几分钟内创建AI声音
-  - title: 魔音工坊
-    logo: https://www.faviconextractor.com/favicon/www.moyin.com?larger=true
-    url: https://www.moyin.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI配音工具，轻松配出媲美真人的声音
-  - title: 讯飞智作
-    logo: https://www.faviconextractor.com/favicon/peiyin.xunfei.cn?larger=true
-    url: https://peiyin.xunfei.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 科大讯飞推出的AI转语音和配音工具
-  - title: 听脑AI
-    logo: https://www.faviconextractor.com/favicon/itingnao.com?larger=true
-    url: https://itingnao.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 人工智能语音录音记录助手
-  - title: Suno
-    logo: https://www.faviconextractor.com/favicon/www.suno.ai?larger=true
-    url: https://www.suno.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 高质量的AI音乐创作平台
-  - title: 海绵音乐
-    logo: https://www.faviconextractor.com/favicon/www.haimian.com?larger=true
-    url: https://www.haimian.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 字节跳动推出的免费AI音乐创作和发现平台
-  - title: 音疯
-    logo: https://www.faviconextractor.com/favicon/www.yinfeng.cn?larger=true
-    url: https://www.yinfeng.cn/home?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 昆仑万维推出的AI音乐创作平台，一键生成原创歌曲
-  - title: 琅琅配音
-    logo: https://www.faviconextractor.com/favicon/lang123.top?larger=true
-    url: https://lang123.top/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 智能文本转语音工具
-  - title: 天谱乐
-    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
-    url: https://ai-bot.cn/tianpuyue?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 唱鸭团队推出的首个多模态音乐生成大模型
-  - title: 音剪
-    logo: https://www.faviconextractor.com/favicon/audioeditor.ximalaya.com?larger=true
-    url: https://audioeditor.ximalaya.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 喜马拉雅推出的一站式AI音频创作平台
-  - title: 简单听记
-    logo: https://www.faviconextractor.com/favicon/pan.baidu.com?larger=true
-    url: https://pan.baidu.com/embed/listennote?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 百度网盘推出的AI语音转文字工具
-  - title: 讯飞听见
-    logo: https://www.faviconextractor.com/favicon/www.iflyrec.com?larger=true
-    url: https://www.iflyrec.com/zhuanwenzi.html?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 科大讯飞推出的在线AI语音转文字工具
-  - title: MemoAI
-    logo: https://www.faviconextractor.com/favicon/memo.ac?larger=true
-    url: https://memo.ac/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 免费的AI语音转文字工具
-  - title: Reecho睿声
-    logo: https://www.faviconextractor.com/favicon/www.reecho.ai?larger=true
-    url: https://www.reecho.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 超拟真的中英文AI语音克隆/生成平台
-  - title: Udio
-    logo: https://www.faviconextractor.com/favicon/www.udio.com?larger=true
-    url: https://www.udio.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 免费的AI音乐创作工具，每月可生成1200首歌曲
-  - title: 网易天音
-    logo: https://www.faviconextractor.com/favicon/tianyin.163.com?larger=true
-    url: https://tianyin.163.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 网易推出的一站式AI音乐创作工具
-  - title: TME Studio
-    logo: https://www.faviconextractor.com/favicon/y.qq.com?larger=true
-    url: https://y.qq.com/tme_studio/index.html?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 腾讯音乐推出的智能音乐创作助手
-  - title: Lyrics Into Song AI
-    logo: https://www.faviconextractor.com/favicon/lyricsintosong.ai?larger=true
-    url: https://lyricsintosong.ai/zh?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 在线AI音乐创作工具，输入歌词创建个性化歌曲
-  - title: Stable Audio
-    logo: https://www.faviconextractor.com/favicon/www.stableaudio.com?larger=true
-    url: https://www.stableaudio.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: Stability AI最新推出的音乐生成工具
-  - title: TextToSpeech
-    logo: https://www.faviconextractor.com/favicon/texttospeech.im?larger=true
-    url: https://texttospeech.im/zh-CN?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 完全免费的AI文字转语音工具
-  - title: TTSMaker
-    logo: https://www.faviconextractor.com/favicon/ttsmaker.cn?larger=true
-    url: https://ttsmaker.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 马克配音（MakVoice）推出的免费AI文字转语音工具
-  - title: LOVO AI
-    logo: https://www.faviconextractor.com/favicon/lovo.ai?larger=true
-    url: https://lovo.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 专业的AI文字转语音工具，支持500+声音和100种语言
-  - title: Uberduck
-    logo: https://www.faviconextractor.com/favicon/uberduck.ai?larger=true
-    url: https://uberduck.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 开源的AI语音生成社区，5000多种不同的声音
-  - title: ElevenLabs
-    logo: https://www.faviconextractor.com/favicon/try.elevenlabs.io?larger=true
-    url: https://try.elevenlabs.io/mqbahm8egbk8?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI文本转语音，支持包含中文在内的28种语言
-  - title: Sonauto
-    logo: https://www.faviconextractor.com/favicon/sonauto.ai?larger=true
-    url: https://sonauto.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 免费的AI音乐生成和歌曲创作工具
-  - title: 天工SkyMusic
-    logo: https://www.faviconextractor.com/favicon/music.tiangong.cn?larger=true
-    url: https://music.tiangong.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 昆仑万维发布的国内首个AI音乐生成大模型
-  - title: 大饼AI变声
-    logo: https://www.faviconextractor.com/favicon/dubbing.tech?larger=true
-    url: https://dubbing.tech/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 免费专业的AI变声软件，一键实时语音变声
-  - title: Supertone Shift
-    logo: https://www.faviconextractor.com/favicon/product.supertone.ai?larger=true
-    url: https://product.supertone.ai/shift?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI驱动的实时语音变换软件
-  - title: Riffusion
-    logo: https://www.faviconextractor.com/favicon/www.riffusion.com?larger=true
-    url: https://www.riffusion.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI生成不同风格的音乐，免费开源
-  - title: Adobe Podcast
-    logo: https://www.faviconextractor.com/favicon/podcast.adobe.com?larger=true
-    url: https://podcast.adobe.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: Adobe推出的在线AI音频录制和编辑工具
-  - title: 网易云音乐·X Studio
-    logo: https://www.faviconextractor.com/favicon/xstudio.music.163.com?larger=true
-    url: https://xstudio.music.163.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 网易云音乐与小冰智能联合推出的免费AI歌手音乐创作软件
-  - title: 刺鸟配音
-    logo: https://www.faviconextractor.com/favicon/www.icnpy.com?larger=true
-    url: https://www.icnpy.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 刺鸟科技推出的专业AI配音工具
-  - title: Wondercraft
-    logo: https://www.faviconextractor.com/favicon/www.wondercraft.ai?larger=true
-    url: https://www.wondercraft.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI音频内容生成工具，可创建播客有声书等
-  - title: Fryderyk
-    logo: https://www.faviconextractor.com/favicon/fryderyk.ai?larger=true
-    url: https://fryderyk.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI音乐创作工具，集成了多种乐器声音
-  - title: Voicenotes
-    logo: https://www.faviconextractor.com/favicon/voicenotes.com?larger=true
-    url: https://voicenotes.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI驱动的语音笔记工具
-  - title: OptimizerAI
-    logo: https://www.faviconextractor.com/favicon/www.optimizerai.xyz?larger=true
-    url: https://www.optimizerai.xyz/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI声音效果生成工具
-  - title: ACE Studio
-    logo: https://www.faviconextractor.com/favicon/ace-studio.timedomain.cn?larger=true
-    url: https://ace-studio.timedomain.cn?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI歌声合成工具，输入歌词与旋律即可生成宛如真人的歌声
-  - title: 蓝藻AI
-    logo: https://www.faviconextractor.com/favicon/aigc.unisound.com?larger=true
-    url: https://aigc.unisound.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 云知声旗下的AI配音和声音克隆平台
-  - title: Deepgram
-    logo: https://www.faviconextractor.com/favicon/deepgram.partnerlinks.io?larger=true
-    url: https://deepgram.partnerlinks.io/ai-bot?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 快速低成本的AI语音文本互转API平台
-  - title: Audiobox
-    logo: https://www.faviconextractor.com/favicon/audiobox.metademolab.com?larger=true
-    url: https://audiobox.metademolab.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: Meta推出的免费开源的AI语音和声音生成模型
-  - title: RESEMBLE.AI
-    logo: https://www.faviconextractor.com/favicon/www.resemble.ai?larger=true
-    url: https://www.resemble.ai?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI人声生成工具
-  - title: IBM Watson文字转语音
-    logo: https://www.faviconextractor.com/favicon/www.ibm.com?larger=true
-    url: https://www.ibm.com/cloud/watson-text-to-speech?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: IBM Watson文字转语音
-  - title: FakeYou
-    logo: https://www.faviconextractor.com/favicon/fakeyou.com?larger=true
-    url: https://fakeyou.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: Deep Fake文本转语音
-- taxonomy: AI学习平台
-  icon: fas fa-school
-  links:
-  - title: AI算法刷题
-    logo: https://www.faviconextractor.com/favicon/www.marscode.cn?larger=true
-    url: https://www.marscode.cn/practice-intro?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: AI 代码陪练，100 道大厂真题，助你高效掌握算法知识，顺利拿到自己的心仪 offer！
-  - title: Kaggle
-    logo: https://www.faviconextractor.com/favicon/www.kaggle.com?larger=true
-    url: https://www.kaggle.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
-    description: 人工智能和机器学习社区，发现最新模型、数据和代码库
+  - title: 白日梦AI
+    logo: https://www.faviconextractor.com/favicon/aibrm.com?larger=true
+    url: https://aibrm.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 白日梦AI是一款全新的文生视频类AIGC创作平台。支持功能有：文生视频、动态画面、AI角色生成、人物/场景一致性...更多功能，等你来发现！
 - taxonomy: AI设计工具
-  icon: far fa-star
+  icon: fas fa-palette
   links:
   - title: 绘蛙
     logo: https://www.faviconextractor.com/favicon/ihuiwa.paluai.com?larger=true
@@ -1308,8 +532,366 @@
     logo: https://www.faviconextractor.com/favicon/pixso.cn?larger=true
     url: https://pixso.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
     description: 国产在线设计工具Pixso的内置AI助手，支持AI文生图、AI对话、AI设计等
+- taxonomy: AI对话聊天
+  icon: far fa-comments
+  links:
+  - title: 智谱清言
+    logo: https://www.faviconextractor.com/favicon/chatglm.paluai.com?larger=true
+    url: https://chatglm.paluai.com/zhipu?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 免费全能的AI助手，支持AI绘画、视频生成
+  - title: 豆包
+    logo: https://www.faviconextractor.com/favicon/dis.haodxi.cn?larger=true
+    url: http://dis.haodxi.cn/dbff/dbaiboa2.html?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 字节跳动推出的免费AI智能助手
+  - title: 问小白
+    logo: https://www.faviconextractor.com/favicon/wenxiaobai.paluai.com?larger=true
+    url: https://wenxiaobai.paluai.com/aibot?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 免费全能AI助手，已接入DeepSeek-R1满血版
+  - title: 逗逗
+    logo: https://www.faviconextractor.com/favicon/doudou.paluai.com?larger=true
+    url: https://doudou.paluai.com/web_aitool?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI游戏陪玩，支持原神、黑神话、LOL！
+  - title: Kimi智能助手
+    logo: https://www.faviconextractor.com/favicon/kimi.paluai.com?larger=true
+    url: https://kimi.paluai.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 一次搜索可精读500个页面，会推理解析，能深度思考的AI助手
+  - title: DeepSeek
+    logo: https://www.faviconextractor.com/favicon/www.deepseek.com?larger=true
+    url: https://www.deepseek.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 幻方量化旗下深度求索推出的开源大模型和聊天助手
+  - title: 海螺AI
+    logo: https://www.faviconextractor.com/favicon/hailuoai.com?larger=true
+    url: https://hailuoai.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: MiniMax推出的免费AI智能聊天助理
+  - title: 腾讯元宝
+    logo: https://www.faviconextractor.com/favicon/yuanbao.tencent.com?larger=true
+    url: https://yuanbao.tencent.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 腾讯推出的免费AI智能助手
+  - title: 通义千问
+    logo: https://www.faviconextractor.com/favicon/tongyi.aliyun.com?larger=true
+    url: https://tongyi.aliyun.com/qianwen/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 阿里推出的自研大模型，通情、达义，你的全能AI助手！
+  - title: 讯飞星火
+    logo: https://www.faviconextractor.com/favicon/xinghuo.xfyun.cn?larger=true
+    url: https://xinghuo.xfyun.cn/desk?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 科大讯飞推出的AI智能助手
+  - title: 华为小艺
+    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
+    url: https://ai-bot.cn/huawei-xiaoyi?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 华为旗下小艺AI助手网页端，已接入DeepSeek-R1
+  - title: 文心一言
+    logo: https://www.faviconextractor.com/favicon/yiyan.baidu.com?larger=true
+    url: https://yiyan.baidu.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 百度推出的基于文心大模型的AI对话互动工具
+  - title: 跃问
+    logo: https://www.faviconextractor.com/favicon/yuewen.cn?larger=true
+    url: https://yuewen.cn/chats/new?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 阶跃星辰推出的支持多模态的AI聊天机器人
+  - title: 百小应
+    logo: https://www.faviconextractor.com/favicon/ying.baichuan-ai.com?larger=true
+    url: https://ying.baichuan-ai.com/chat?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 百川智能推出的免费AI助手
+  - title: 天工AI
+    logo: https://www.faviconextractor.com/favicon/www.tiangong.cn?larger=true
+    url: https://www.tiangong.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 昆仑万维推出的AI智能助手
+  - title: Copilot
+    logo: https://www.faviconextractor.com/favicon/copilot.microsoft.com?larger=true
+    url: https://copilot.microsoft.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 微软推出的网页版Copilot助手
+  - title: Grok
+    logo: https://www.faviconextractor.com/favicon/x.ai?larger=true
+    url: https://x.ai/grok?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 马斯克旗下xAI推出的人工智能助手
+  - title: Gemini
+    logo: https://www.faviconextractor.com/favicon/deepmind.google?larger=true
+    url: https://deepmind.google/technologies/gemini?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: Google推出的AI聊天对话机器人Gemini
+  - title: Qwen Chat
+    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
+    url: https://ai-bot.cn/qwen-chat?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 阿里通义推出的 Qwen AI 大模型Web UI界面
+  - title: J1 Assistant
+    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
+    url: https://ai-bot.cn/j1-assistant?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 罗永浩旗下 Jarvis 项目推出的 AI 智能助手
+  - title: Meta AI助手
+    logo: https://www.faviconextractor.com/favicon/www.meta.ai?larger=true
+    url: https://www.meta.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: Meta推出的免费AI聊天助手
+  - title: Koko AI
+    logo: https://www.faviconextractor.com/favicon/www.seeles.ai?larger=true
+    url: https://www.seeles.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: Seele公司推出的「AI+3D」情感陪伴产品
+  - title: Ohai
+    logo: https://www.faviconextractor.com/favicon/beta.ohai.bot?larger=true
+    url: https://beta.ohai.bot/discover?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 月之暗面旗下推出的AI角色扮演虚拟陪伴应用
+  - title: Me.bot
+    logo: https://www.faviconextractor.com/favicon/www.me.bot?larger=true
+    url: https://www.me.bot/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 心识宇宙推出的个性化AI伴侣产品
+  - title: Saylo
+    logo: https://www.faviconextractor.com/favicon/www.sayloai.com?larger=true
+    url: https://www.sayloai.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI驱动的故事角色扮演游戏应用，沉浸式的剧本互动体验
+  - title: 通义星尘
+    logo: https://www.faviconextractor.com/favicon/tongyi.aliyun.com?larger=true
+    url: https://tongyi.aliyun.com/xingchen/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 用AI定制属于你自己的IP角色
+  - title: CueMe
+    logo: https://www.faviconextractor.com/favicon/cueme.cn?larger=true
+    url: https://cueme.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 夸克推出的AI智能对话助手，支持2万字长文写作
+  - title: 造梦次元
+    logo: https://www.faviconextractor.com/favicon/ciyuan.ideaflow.pro?larger=true
+    url: https://ciyuan.ideaflow.pro/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI互动内容平台，虚拟角色逗你开心
+  - title: Museland
+    logo: https://www.faviconextractor.com/favicon/www.museland.ai?larger=true
+    url: https://www.museland.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 沉浸式AI角色扮演产品
+  - title: 百度AI助手
+    logo: https://www.faviconextractor.com/favicon/chat.baidu.com?larger=true
+    url: https://chat.baidu.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 百度推出的多场景AI智能体助手
+  - title: 商量SenseChat
+    logo: https://www.faviconextractor.com/favicon/chat.sensetime.com?larger=true
+    url: https://chat.sensetime.com/wb/home?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 商汤科技推出的免费AI聊天助手
+  - title: 小悟空
+    logo: https://www.faviconextractor.com/favicon/wukong.com?larger=true
+    url: https://wukong.com/tool?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 字节跳动推出的免费AI对话助手和个人助理
+  - title: 紫东太初
+    logo: https://www.faviconextractor.com/favicon/taichu-web.ia.ac.cn?larger=true
+    url: https://taichu-web.ia.ac.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 中科院与武智院推出的千亿参数全模态大模型和助手
+  - title: 小黄蕉
+    logo: https://www.faviconextractor.com/favicon/chatwiz.cn?larger=true
+    url: https://chatwiz.cn/h5/feely?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 字节跳动旗下推出的AI虚拟交友聊天平台
+  - title: 冒泡鸭
+    logo: https://www.faviconextractor.com/favicon/maopaoya.com?larger=true
+    url: https://maopaoya.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 阶跃星辰推出的AI聊天机器人和智能体平台
+  - title: Cici
+    logo: https://www.faviconextractor.com/favicon/www.ciciai.com?larger=true
+    url: https://www.ciciai.com/browser-extension/landing/zh/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 豆包国际版，字节跳动面向海外市场推出的AI助手
+  - title: 百川大模型
+    logo: https://www.faviconextractor.com/favicon/chat.baichuan-ai.com?larger=true
+    url: https://chat.baichuan-ai.com/home?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 百川智能推出的大模型助手，融合了意图理解、信息检索以及强化学习技术
+  - title: Molica AI
+    logo: https://www.faviconextractor.com/favicon/wx.molica.com.cn?larger=true
+    url: https://wx.molica.com.cn/web/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 集大成于一身的AI工具合集。包含ChatGPT、Midjourney、Suno、Luma、Claude、Gemini、Kimi、豆包、通义千问、文小言等，全球10多款先进的AI工具
+  - title: 豆包AI
+    logo: https://www.faviconextractor.com/favicon/doubao.paluai.com?larger=true
+    url: https://doubao.paluai.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 抖音旗下的免费AI聊天智能对话问答助手，ChatGPT国内平替产品
+  - title: 逗逗AI
+    logo: https://www.faviconextractor.com/favicon/www.doudou.fun?larger=true
+    url: https://www.doudou.fun/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 有趣的AI桌宠应用，陪你玩游戏！
+  - title: 厉害猫
+    logo: https://www.faviconextractor.com/favicon/www.lihaimao.com?larger=true
+    url: https://www.lihaimao.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AIGC平台，对接了厉害猫AI、GPT3.5、GPT4O、通义千问、Kimi、文心一言、讯飞星火、智谱清言、ChatGLM9个大模型
+  - title: ChatGAi
+    logo: https://www.faviconextractor.com/favicon/chat.doltrans.com?larger=true
+    url: https://chat.doltrans.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 集成Ai聊天、Ai创作、Ai绘画助理、Ai私人助理等功能
+  - title: Kimi
+    logo: https://www.faviconextractor.com/favicon/kimi.moonshot.cn?larger=true
+    url: https://kimi.moonshot.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: Kimi智能搜索，一问即答——信息洪流也不怕
+  - title: 讯飞星火AI
+    logo: https://www.faviconextractor.com/favicon/xinghuo.xfyun.cn?larger=true
+    url: https://xinghuo.xfyun.cn/sparkapi?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 国内自研免费GPT模型，支持AI问答，编写代码，AI绘画等，提供免费API调用
+  - title: 天工AI助手
+    logo: https://www.faviconextractor.com/favicon/www.tiangong.cn?larger=true
+    url: https://www.tiangong.cn?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 「天工」是国内首个对标 ChatGPT 的双千亿级大语言模型，支持免费在线使用
+- taxonomy: AI编程工具
+  icon: fas fa-laptop-code
+  links:
+  - title: Trae
+    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
+    url: https://ai-bot.cn/trae?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 字节跳动推出的免费AI编程工具，基于Claude模型
+  - title: 通义灵码
+    logo: https://www.faviconextractor.com/favicon/click.aliyun.com?larger=true
+    url: https://click.aliyun.com/m/1000399943?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 阿里推出的免费AI编程工具，基于通义大模型
+  - title: 代码小浣熊
+    logo: https://www.faviconextractor.com/favicon/xiaohuanxiong.paluai.com?larger=true
+    url: https://xiaohuanxiong.paluai.com/code?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 商汤科技推出的免费AI编程助手
+  - title: 豆包AI编程
+    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
+    url: https://ai-bot.cn/doubao-aicoding?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 豆包推出的AI编程新功能
+  - title: CodeWhisperer
+    logo: https://www.faviconextractor.com/favicon/aws.amazon.com?larger=true
+    url: https://aws.amazon.com/codewhisperer?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 亚马逊推出的免费AI编程助手
+  - title: GitHub Copilot
+    logo: https://www.faviconextractor.com/favicon/github.com?larger=true
+    url: https://github.com/features/copilot?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: GitHub推出的AI编程工具
+  - title: 豆包MarsCode
+    logo: https://www.faviconextractor.com/favicon/marscode.paluai.com?larger=true
+    url: https://marscode.paluai.com/doubao?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 字节推出的免费AI编程助手，基于豆包大模型
+  - title: 文心快码
+    logo: https://www.faviconextractor.com/favicon/comate.baidu.com?larger=true
+    url: https://comate.baidu.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 百度推出的AI编程助手，基于文心大模型
+  - title: Cursor
+    logo: https://www.faviconextractor.com/favicon/www.cursor.com?larger=true
+    url: https://www.cursor.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI代码编辑器，快速进行编程和软件开发
+  - title: Windsurf
+    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
+    url: https://ai-bot.cn/windsurf?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: Codeium公司推出的AI编程工具
+  - title: Bolt.new
+    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
+    url: https://ai-bot.cn/bolt%E2%80%A4new?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: StackBlitz 推出的全栈AI代码工具，可以看作 Artfacts、V0 和 Replit 的结合体
+  - title: Replit Agent
+    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
+    url: https://ai-bot.cn/replit-agent?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI初创公司Replit推出的AI编程工具
+  - title: Lovable
+    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
+    url: https://ai-bot.cn/lovable?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI编程工具，用自然对话快速构建网站和Web应用
+  - title: Junie
+    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
+    url: https://ai-bot.cn/junie?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: JetBrains 推出的 AI 编程助手
+  - title: CodeGeeX
+    logo: https://www.faviconextractor.com/favicon/codegeex.cn?larger=true
+    url: https://codegeex.cn/zh-CN?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 智谱AI推出的免费AI编程助手
+  - title: 腾讯云AI代码助手
+    logo: https://www.faviconextractor.com/favicon/cloud.tencent.com?larger=true
+    url: https://cloud.tencent.com/product/acc?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 腾讯推出的AI编程辅助工具
+  - title: Codeium
+    logo: https://www.faviconextractor.com/favicon/www.codeium.com?larger=true
+    url: https://www.codeium.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 免费的AI编程工具，智能生成和补全代码
+  - title: 码上飞
+    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
+    url: https://ai-bot.cn/codeflying?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI软件开发平台，一句话自动生成端到端应用
+  - title: Cody
+    logo: https://www.faviconextractor.com/favicon/about.sourcegraph.com?larger=true
+    url: https://about.sourcegraph.com/cody?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: Sourcegraph推出的免费AI编程工具
+  - title: DevChat
+    logo: https://www.faviconextractor.com/favicon/www.devchat.ai?larger=true
+    url: https://www.devchat.ai/zh?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 开源的支持多款大模型的AI编程助手
+  - title: CodiumAI
+    logo: https://www.faviconextractor.com/favicon/www.codium.ai?larger=true
+    url: https://www.codium.ai?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 免费的AI代码测试和分析工具
+  - title: Genie
+    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
+    url: https://ai-bot.cn/genie?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: Cosine AI推出的AI编程助手
+  - title: iFlyCode
+    logo: https://www.faviconextractor.com/favicon/iflycode.xfyun.cn?larger=true
+    url: https://iflycode.xfyun.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 科大讯飞推出的智能编程助手
+  - title: Twinny
+    logo: https://www.faviconextractor.com/favicon/twinny.dev?larger=true
+    url: https://twinny.dev/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 专为 VS Code 设计的AI代码补全插件
+  - title: Project IDX
+    logo: https://www.faviconextractor.com/favicon/idx.dev?larger=true
+    url: https://idx.dev/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 谷歌推出的AI云端开发和代码编辑器
+  - title: Sketch2Code
+    logo: https://www.faviconextractor.com/favicon/sketch2code.azurewebsites.net?larger=true
+    url: https://sketch2code.azurewebsites.net?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 微软AI Lab推出的将手绘草图转换成HTML代码工具
+  - title: CodeFuse
+    logo: https://www.faviconextractor.com/favicon/codefuse.alipay.com?larger=true
+    url: https://codefuse.alipay.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 蚂蚁集团推出的AI代码编程助手
+  - title: Tabby
+    logo: https://www.faviconextractor.com/favicon/tabby.tabbyml.com?larger=true
+    url: https://tabby.tabbyml.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 免费开源的自托管AI编程助手
+  - title: C知道
+    logo: https://www.faviconextractor.com/favicon/so.csdn.net?larger=true
+    url: https://so.csdn.net/chat?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: CSDN推出的AI技术问答工具
+  - title: 驭码CodeRider
+    logo: https://www.faviconextractor.com/favicon/coderider.gitlab.cn?larger=true
+    url: https://coderider.gitlab.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 极狐GitLab推出的AI编程与软件智能研发助手
+  - title: Duo Chat
+    logo: https://www.faviconextractor.com/favicon/about.gitlab.com?larger=true
+    url: https://about.gitlab.com/gitlab-duo/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: GitLab推出的AI编程助手
+  - title: CodeRabbit
+    logo: https://www.faviconextractor.com/favicon/coderabbit.ai?larger=true
+    url: https://coderabbit.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI驱动的代码审查平台
+  - title: Augment
+    logo: https://www.faviconextractor.com/favicon/www.augmentcode.com?larger=true
+    url: https://www.augmentcode.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI编程辅助工具，专为大型代码库设计
+  - title: Devin
+    logo: https://www.faviconextractor.com/favicon/preview.devin.ai?larger=true
+    url: https://preview.devin.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 首个全自主的AI软件工程师智能体
+  - title: Plandex
+    logo: https://www.faviconextractor.com/favicon/plandex.ai?larger=true
+    url: https://plandex.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 免费开源的基于终端的AI编程引擎
+  - title: Fitten Code
+    logo: https://www.faviconextractor.com/favicon/code.fittentech.com?larger=true
+    url: https://code.fittentech.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 非十科技推出的免费AI代码助手
+  - title: BLACKBOX AI
+    logo: https://www.faviconextractor.com/favicon/www.useblackbox.io?larger=true
+    url: https://www.useblackbox.io/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 黑箱AI编程助理，快速代码生成
+  - title: Solo
+    logo: https://www.faviconextractor.com/favicon/soloist.ai?larger=true
+    url: https://soloist.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: Mozilla推出的零编程无代码AI网站建设工具
+  - title: JetBrains AI
+    logo: https://www.faviconextractor.com/favicon/www.jetbrains.com?larger=true
+    url: https://www.jetbrains.com/ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: JetBrains推出的AI编程开发助手
+  - title: CodeArts Snap
+    logo: https://www.faviconextractor.com/favicon/www.huaweicloud.com?larger=true
+    url: https://www.huaweicloud.com/product/codeartside/snap.html?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 华为云推出的智能编程助手
+  - title: AskCodi
+    logo: https://www.faviconextractor.com/favicon/www.askcodi.com?larger=true
+    url: https://www.askcodi.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 你的个人AI编程助手
+  - title: v0.dev
+    logo: https://www.faviconextractor.com/favicon/v0.dev?larger=true
+    url: https://v0.dev/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI生成前端React/UI组件，由Vercel推出
+  - title: 小浣熊AI
+    logo: https://www.faviconextractor.com/favicon/raccoon.sensetime.com?larger=true
+    url: https://raccoon.sensetime.com/login?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 小浣熊是基于商汤自研大语言模型的智能助手，满足用户代码编写、数据分析、编程学习等各类需求
 - taxonomy: AI搜索引擎
-  icon: far fa-star
+  icon: fab fa-searchengin
   links:
   - title: Kimi智能助手
     logo: https://www.faviconextractor.com/favicon/kimi.paluai.com?larger=true
@@ -1475,8 +1057,179 @@
     logo: https://www.faviconextractor.com/favicon/www.hellomiku.com?larger=true
     url: https://www.hellomiku.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
     description: 快速精准的AI搜索引擎
+- taxonomy: AI音频工具
+  icon: far fa-file-audio
+  links:
+  - title: 魔音工坊
+    logo: https://www.faviconextractor.com/favicon/www.moyin.com?larger=true
+    url: https://www.moyin.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI配音工具，轻松配出媲美真人的声音
+  - title: 讯飞智作
+    logo: https://www.faviconextractor.com/favicon/peiyin.xunfei.cn?larger=true
+    url: https://peiyin.xunfei.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 科大讯飞推出的AI转语音和配音工具
+  - title: 听脑AI
+    logo: https://www.faviconextractor.com/favicon/itingnao.com?larger=true
+    url: https://itingnao.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 人工智能语音录音记录助手
+  - title: Suno
+    logo: https://www.faviconextractor.com/favicon/www.suno.ai?larger=true
+    url: https://www.suno.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 高质量的AI音乐创作平台
+  - title: 海绵音乐
+    logo: https://www.faviconextractor.com/favicon/www.haimian.com?larger=true
+    url: https://www.haimian.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 字节跳动推出的免费AI音乐创作和发现平台
+  - title: 音疯
+    logo: https://www.faviconextractor.com/favicon/www.yinfeng.cn?larger=true
+    url: https://www.yinfeng.cn/home?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 昆仑万维推出的AI音乐创作平台，一键生成原创歌曲
+  - title: 琅琅配音
+    logo: https://www.faviconextractor.com/favicon/lang123.top?larger=true
+    url: https://lang123.top/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 智能文本转语音工具
+  - title: 天谱乐
+    logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
+    url: https://ai-bot.cn/tianpuyue?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 唱鸭团队推出的首个多模态音乐生成大模型
+  - title: 音剪
+    logo: https://www.faviconextractor.com/favicon/audioeditor.ximalaya.com?larger=true
+    url: https://audioeditor.ximalaya.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 喜马拉雅推出的一站式AI音频创作平台
+  - title: 简单听记
+    logo: https://www.faviconextractor.com/favicon/pan.baidu.com?larger=true
+    url: https://pan.baidu.com/embed/listennote?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 百度网盘推出的AI语音转文字工具
+  - title: 讯飞听见
+    logo: https://www.faviconextractor.com/favicon/www.iflyrec.com?larger=true
+    url: https://www.iflyrec.com/zhuanwenzi.html?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 科大讯飞推出的在线AI语音转文字工具
+  - title: MemoAI
+    logo: https://www.faviconextractor.com/favicon/memo.ac?larger=true
+    url: https://memo.ac/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 免费的AI语音转文字工具
+  - title: Reecho睿声
+    logo: https://www.faviconextractor.com/favicon/www.reecho.ai?larger=true
+    url: https://www.reecho.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 超拟真的中英文AI语音克隆/生成平台
+  - title: Udio
+    logo: https://www.faviconextractor.com/favicon/www.udio.com?larger=true
+    url: https://www.udio.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 免费的AI音乐创作工具，每月可生成1200首歌曲
+  - title: 网易天音
+    logo: https://www.faviconextractor.com/favicon/tianyin.163.com?larger=true
+    url: https://tianyin.163.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 网易推出的一站式AI音乐创作工具
+  - title: TME Studio
+    logo: https://www.faviconextractor.com/favicon/y.qq.com?larger=true
+    url: https://y.qq.com/tme_studio/index.html?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 腾讯音乐推出的智能音乐创作助手
+  - title: Lyrics Into Song AI
+    logo: https://www.faviconextractor.com/favicon/lyricsintosong.ai?larger=true
+    url: https://lyricsintosong.ai/zh?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 在线AI音乐创作工具，输入歌词创建个性化歌曲
+  - title: Stable Audio
+    logo: https://www.faviconextractor.com/favicon/www.stableaudio.com?larger=true
+    url: https://www.stableaudio.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: Stability AI最新推出的音乐生成工具
+  - title: TextToSpeech
+    logo: https://www.faviconextractor.com/favicon/texttospeech.im?larger=true
+    url: https://texttospeech.im/zh-CN?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 完全免费的AI文字转语音工具
+  - title: TTSMaker
+    logo: https://www.faviconextractor.com/favicon/ttsmaker.cn?larger=true
+    url: https://ttsmaker.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 马克配音（MakVoice）推出的免费AI文字转语音工具
+  - title: LOVO AI
+    logo: https://www.faviconextractor.com/favicon/lovo.ai?larger=true
+    url: https://lovo.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 专业的AI文字转语音工具，支持500+声音和100种语言
+  - title: Uberduck
+    logo: https://www.faviconextractor.com/favicon/uberduck.ai?larger=true
+    url: https://uberduck.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 开源的AI语音生成社区，5000多种不同的声音
+  - title: ElevenLabs
+    logo: https://www.faviconextractor.com/favicon/try.elevenlabs.io?larger=true
+    url: https://try.elevenlabs.io/mqbahm8egbk8?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI文本转语音，支持包含中文在内的28种语言
+  - title: Sonauto
+    logo: https://www.faviconextractor.com/favicon/sonauto.ai?larger=true
+    url: https://sonauto.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 免费的AI音乐生成和歌曲创作工具
+  - title: 天工SkyMusic
+    logo: https://www.faviconextractor.com/favicon/music.tiangong.cn?larger=true
+    url: https://music.tiangong.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 昆仑万维发布的国内首个AI音乐生成大模型
+  - title: 大饼AI变声
+    logo: https://www.faviconextractor.com/favicon/dubbing.tech?larger=true
+    url: https://dubbing.tech/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 免费专业的AI变声软件，一键实时语音变声
+  - title: Supertone Shift
+    logo: https://www.faviconextractor.com/favicon/product.supertone.ai?larger=true
+    url: https://product.supertone.ai/shift?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI驱动的实时语音变换软件
+  - title: Riffusion
+    logo: https://www.faviconextractor.com/favicon/www.riffusion.com?larger=true
+    url: https://www.riffusion.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI生成不同风格的音乐，免费开源
+  - title: Adobe Podcast
+    logo: https://www.faviconextractor.com/favicon/podcast.adobe.com?larger=true
+    url: https://podcast.adobe.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: Adobe推出的在线AI音频录制和编辑工具
+  - title: 网易云音乐·X Studio
+    logo: https://www.faviconextractor.com/favicon/xstudio.music.163.com?larger=true
+    url: https://xstudio.music.163.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 网易云音乐与小冰智能联合推出的免费AI歌手音乐创作软件
+  - title: 刺鸟配音
+    logo: https://www.faviconextractor.com/favicon/www.icnpy.com?larger=true
+    url: https://www.icnpy.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 刺鸟科技推出的专业AI配音工具
+  - title: Wondercraft
+    logo: https://www.faviconextractor.com/favicon/www.wondercraft.ai?larger=true
+    url: https://www.wondercraft.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI音频内容生成工具，可创建播客有声书等
+  - title: Fryderyk
+    logo: https://www.faviconextractor.com/favicon/fryderyk.ai?larger=true
+    url: https://fryderyk.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI音乐创作工具，集成了多种乐器声音
+  - title: Voicenotes
+    logo: https://www.faviconextractor.com/favicon/voicenotes.com?larger=true
+    url: https://voicenotes.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI驱动的语音笔记工具
+  - title: OptimizerAI
+    logo: https://www.faviconextractor.com/favicon/www.optimizerai.xyz?larger=true
+    url: https://www.optimizerai.xyz/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI声音效果生成工具
+  - title: ACE Studio
+    logo: https://www.faviconextractor.com/favicon/ace-studio.timedomain.cn?larger=true
+    url: https://ace-studio.timedomain.cn?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI歌声合成工具，输入歌词与旋律即可生成宛如真人的歌声
+  - title: 蓝藻AI
+    logo: https://www.faviconextractor.com/favicon/aigc.unisound.com?larger=true
+    url: https://aigc.unisound.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 云知声旗下的AI配音和声音克隆平台
+  - title: Deepgram
+    logo: https://www.faviconextractor.com/favicon/deepgram.partnerlinks.io?larger=true
+    url: https://deepgram.partnerlinks.io/ai-bot?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 快速低成本的AI语音文本互转API平台
+  - title: Audiobox
+    logo: https://www.faviconextractor.com/favicon/audiobox.metademolab.com?larger=true
+    url: https://audiobox.metademolab.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: Meta推出的免费开源的AI语音和声音生成模型
+  - title: RESEMBLE.AI
+    logo: https://www.faviconextractor.com/favicon/www.resemble.ai?larger=true
+    url: https://www.resemble.ai?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI人声生成工具
+  - title: IBM Watson文字转语音
+    logo: https://www.faviconextractor.com/favicon/www.ibm.com?larger=true
+    url: https://www.ibm.com/cloud/watson-text-to-speech?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: IBM Watson文字转语音
+  - title: FakeYou
+    logo: https://www.faviconextractor.com/favicon/fakeyou.com?larger=true
+    url: https://fakeyou.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: Deep Fake文本转语音
 - taxonomy: AI开发平台
-  icon: far fa-star
+  icon: fas fa-microchip
   links:
   - title: Coze
     logo: https://www.faviconextractor.com/favicon/dis.csqixiang.cn?larger=true
@@ -1623,7 +1376,7 @@
     url: https://www.tianrang.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
     description: 灵活的AI应用构建和开发平台
 - taxonomy: AI训练模型
-  icon: far fa-star
+  icon: fas fa-cubes
   links:
   - title: Coze
     logo: https://www.faviconextractor.com/favicon/dis.csqixiang.cn?larger=true
@@ -1786,7 +1539,7 @@
     url: https://www.lobe.ai?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
     description: 简单免费的机器学习模型训练工具
 - taxonomy: AI内容检测
-  icon: far fa-star
+  icon: fas fa-broadcast-tower
   links:
   - title: 朱雀AI检测
     logo: https://www.faviconextractor.com/favicon/ai-bot.cn?larger=true
@@ -1848,8 +1601,99 @@
     logo: https://www.faviconextractor.com/favicon/checkforai.com?larger=true
     url: https://checkforai.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
     description: 免费在线检测AI内容
+- taxonomy: AI语言翻译
+  icon: fas fa-language
+  links:
+  - title: 沉浸式翻译
+    logo: https://www.faviconextractor.com/favicon/immersivetranslate.com?larger=true
+    url: https://immersivetranslate.com/zh-Hans/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 双语对照的网页翻译插件，完全免费 口碑炸裂！
+  - title: 会译
+    logo: https://www.faviconextractor.com/favicon/huiyiai.net?larger=true
+    url: https://huiyiai.net/hy_api/activity/invite?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 沉浸对照式AI翻译，支持100+语言
+  - title: 腾讯交互翻译
+    logo: https://www.faviconextractor.com/favicon/transmart.qq.com?larger=true
+    url: https://transmart.qq.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 腾讯推出的多语言AI翻译工具
+  - title: DeepTranslate
+    logo: https://www.faviconextractor.com/favicon/deeptranslate.ai?larger=true
+    url: https://deeptranslate.ai/zh-CN?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 免费的AI双语翻译器，支持142+种语言
+  - title: Google翻译
+    logo: https://www.faviconextractor.com/favicon/translate.google.com?larger=true
+    url: https://translate.google.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: Google免费提供的上百种语言智能翻译工具
+  - title: 必应翻译
+    logo: https://www.faviconextractor.com/favicon/www.bing.com?larger=true
+    url: https://www.bing.com/translator?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 微软必应推出的翻译工具
+  - title: DeepL翻译
+    logo: https://www.faviconextractor.com/favicon/www.deepl.com?larger=true
+    url: https://www.deepl.com/translator?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 准确的人工智能翻译工具
+  - title: Toby
+    logo: https://www.faviconextractor.com/favicon/www.trytoby.com?larger=true
+    url: https://www.trytoby.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI实时语音翻译工具，专为视频通话设计
+  - title: 火山翻译
+    logo: https://www.faviconextractor.com/favicon/translate.volcengine.com?larger=true
+    url: https://translate.volcengine.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 字节跳动推出的智能翻译工具
+  - title: 百度翻译
+    logo: https://www.faviconextractor.com/favicon/fanyi.baidu.com?larger=true
+    url: https://fanyi.baidu.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 200种语言互译、沟通全世界！
+  - title: 阿里翻译
+    logo: https://www.faviconextractor.com/favicon/translate.alibaba.com?larger=true
+    url: https://translate.alibaba.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 阿里巴巴达摩院推出的多领域多语种的在线机器翻译
+  - title: 搜狗翻译
+    logo: https://www.faviconextractor.com/favicon/fanyi.sogou.com?larger=true
+    url: https://fanyi.sogou.com/text?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 你的贴身智能翻译专家
+  - title: 腾讯翻译君
+    logo: https://www.faviconextractor.com/favicon/fanyi.qq.com?larger=true
+    url: https://fanyi.qq.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 你免费的随身翻译
+  - title: 象寄翻译
+    logo: https://www.faviconextractor.com/favicon/www.xiangjifanyi.com?larger=true
+    url: https://www.xiangjifanyi.com/console/register-invite/741be04feb30bf16?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI图片和视频翻译神器，支持多种语言的翻译
+  - title: 网易见外
+    logo: https://www.faviconextractor.com/favicon/sight.youdao.com?larger=true
+    url: https://sight.youdao.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 网易推出的AI智能翻译平台，支持音视频、文档、图片、字幕等翻译
+  - title: 讯飞智能翻译
+    logo: https://www.faviconextractor.com/favicon/fanyi.xfyun.cn?larger=true
+    url: https://fanyi.xfyun.cn/console/trans/text?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 科大讯飞推出的人工智能翻译平台
+  - title: 彩云小译
+    logo: https://www.faviconextractor.com/favicon/fanyi.caiyunapp.com?larger=true
+    url: https://fanyi.caiyunapp.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 兼具中日英同声传译、文档翻译和网页翻译的智能翻译工具
+  - title: 百度AI同传助手
+    logo: https://www.faviconextractor.com/favicon/fanyi.baidu.com?larger=true
+    url: https://fanyi.baidu.com/appdownload/download.html?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 中英文音视频同传字幕工具
+  - title: 金山快译
+    logo: https://www.faviconextractor.com/favicon/kuaiyi.wps.cn?larger=true
+    url: https://kuaiyi.wps.cn/txt-translate?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 金山WPS推出的在线翻译平台
+  - title: 声动视界
+    logo: https://www.faviconextractor.com/favicon/soundviewai.com?larger=true
+    url: https://soundviewai.com/invitation?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 视频翻译、视频配音、语音克隆、短视频脚本、智能字幕
+  - title: 微软翻译
+    logo: https://www.faviconextractor.com/favicon/cn.bing.com?larger=true
+    url: https://cn.bing.com/translator?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 微软旗下免费AI在线翻译网站
+  - title: 有道翻译
+    logo: https://www.faviconextractor.com/favicon/fanyi.youdao.com?larger=true
+    url: https://fanyi.youdao.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 免费AI在线及时翻译
 - taxonomy: AI法律助手
-  icon: far fa-star
+  icon: fas fa-balance-scale
   links:
   - title: 元典智库
     logo: https://www.faviconextractor.com/favicon/www.chineselaw.com?larger=true
@@ -1884,7 +1728,7 @@
     url: https://contract.yoo-ai.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
     description: 专业的AI法律合同生成工具
 - taxonomy: AI提示指令
-  icon: far fa-star
+  icon: fas fa-lightbulb
   links:
   - title: 提示工程指南
     logo: https://www.faviconextractor.com/favicon/www.promptingguide.ai?larger=true
@@ -1931,7 +1775,7 @@
     url: https://icihun.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
     description: 词魂是一个AIGC精品提示词库...
 - taxonomy: AI模型评测
-  icon: far fa-star
+  icon: fas fa-tasks
   links:
   - title: MMLU
     logo: https://www.faviconextractor.com/favicon/paperswithcode.com?larger=true
@@ -1990,7 +1834,7 @@
     url: https://pubmedqa.github.io?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
     description: 生物医学研究问答数据集和模型得分排行榜
 - taxonomy: AI学习网站
-  icon: far fa-star
+  icon: fas fa-school
   links:
   - title: Day of AI
     logo: https://www.faviconextractor.com/favicon/dayofai.org?larger=true
@@ -2076,6 +1920,84 @@
     logo: https://www.faviconextractor.com/favicon/www.txyz.ai?larger=true
     url: https://www.txyz.ai/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
     description: AI文献阅读和学术研究辅助平台
+  - title: AI算法刷题
+    logo: https://www.faviconextractor.com/favicon/www.marscode.cn?larger=true
+    url: https://www.marscode.cn/practice-intro?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI 代码陪练，100 道大厂真题，助你高效掌握算法知识，顺利拿到自己的心仪 offer！
+- taxonomy: AI论文工具
+  icon: fas fa-graduation-cap
+  links:
+  - title: AIPaperPass
+    logo: https://www.faviconextractor.com/favicon/www.aipaperpass.com?larger=true
+    url: https://www.aipaperpass.com?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI无限免费改稿平台！5分钟5万字！包含图、表、数据、代码、公式！aigc超25%退费！
+  - title: 笔灵AI论文
+    logo: https://www.faviconextractor.com/favicon/ibiling.cn?larger=true
+    url: https://ibiling.cn/paper?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 免费生成千字论文大纲，AI一键生成4w字毕业论文、课题论文、期末论文等
+  - title: Aibiye论文自动生成
+    logo: https://www.faviconextractor.com/favicon/www.aibiye.com?larger=true
+    url: https://www.aibiye.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: Aibiye是一款能够一键生成万字的AI学术辅写工具，可以自动完成开题报告、开题报告、选题大纲（免费）、论文初稿范文等
+  - title: 摆平AI论文
+    logo: https://www.faviconextractor.com/favicon/baipingai.com?larger=true
+    url: https://baipingai.com/paper/paper-sc?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 一键生成万字毕业、期末、专升本论文，降重、改写、续写，提供40＋写作模板
+  - title: 包阅AI
+    logo: https://www.faviconextractor.com/favicon/baoyueai.com?larger=true
+    url: https://baoyueai.com/home/scenes?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 免费论文对照翻译，改写润色，专业术语详解，选题评估，开题报告分析，评审校对，一站式解决论文烦恼！
+- taxonomy: AI生成PPT
+  icon: far fa-keyboard
+  links:
+  - title: 比格AIPPT
+    logo: https://www.faviconextractor.com/favicon/www.bigppt.cn?larger=true
+    url: https://www.bigppt.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 一款AI在线制作PPT的网站，只需输入PPT主题，就能一键生成内容大纲并完成PPT的制作
+  - title: iSlide PPT
+    logo: https://www.faviconextractor.com/favicon/www.islide.cc?larger=true
+    url: https://www.islide.cc/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 一款由AI赋能的PPT制作工具，支持一句话、导入文件、上传模板生成PPT
+  - title: 轻竹AIPPT
+    logo: https://www.faviconextractor.com/favicon/www.qzoffice.com?larger=true
+    url: https://www.qzoffice.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 输入标题30秒自动生成PPT，适用于论文答辩、商业计划、述职汇报等场景，支持word转PPT，在线编辑自动排版
+  - title: ChatPPT
+    logo: https://www.faviconextractor.com/favicon/www.chat-ppt.com?larger=true
+    url: https://www.chat-ppt.com/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 免费体验生成PPT，接入超过350+指令集，可以在1分钟内完成全篇PPT生成、设计与排版
+  - title: 文多多AIPPT
+    logo: https://www.faviconextractor.com/favicon/docmee.cn?larger=true
+    url: https://docmee.cn/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 一键生成PPT，用户只需输入标题或主题，AI技术就能自动生成完整的PPT演示文稿，大大节省了用户的时间
+  - title: 美间AIPPT
+    logo: https://www.faviconextractor.com/favicon/www.meijian.com?larger=true
+    url: https://www.meijian.com/ai?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 免费快速生成PPT、美化PPT
+  - title: 笔灵AIPPT
+    logo: https://www.faviconextractor.com/favicon/ibiling.cn?larger=true
+    url: https://ibiling.cn/ppt-zone?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 1分钟速成精美PPT+千字自述稿件，工作汇报、转正晋升、学术答辩等PPT
+  - title: AIPPT
+    logo: https://www.faviconextractor.com/favicon/www.aippt.cn?larger=true
+    url: https://www.aippt.cn/api/share/page?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 一键生成高质量PPT，无论是职场展示、教育课件还是销售报告，均能快速生成符合需求的专业PPT
+- taxonomy: AI思维导图
+  icon: fas fa-bezier-curve
+  links:
+  - title: 博思白板
+    logo: https://www.faviconextractor.com/favicon/boardmix.cn?larger=true
+    url: https://boardmix.cn/invitation/invitee/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI云端协作白板工具，支持团队在线实时创作与管理
+  - title: ProcessOn
+    logo: https://www.faviconextractor.com/favicon/www.processon.com?larger=true
+    url: https://www.processon.com/i/60797bec5653bb2e1c70c0c2?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: 在线AI协作流程图与思维导图工具
+  - title: Whimsical
+    logo: https://www.faviconextractor.com/favicon/whimsical.com?larger=true
+    url: https://whimsical.com/ai-mind-maps/?utm_source=gptxgeek.com&utm_medium=gptxgeek&utm_campaign=ai_tools&utm_content=directory&utm_term=ai_tools_list
+    description: AI思维导图工具，实时协作与智能创意生成
+
 
     
 
