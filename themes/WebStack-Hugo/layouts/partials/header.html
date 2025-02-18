@@ -11,8 +11,8 @@
     <link rel="shortcut icon" href="{{ relURL $.Site.Params.images.favicon }}" />
     <meta name="keywords" content="{{ .Site.Title }}" />
     <meta name="description" content="{{ site.Params.Description }}" />
-    {{- if isset .Params "canonical" -}}
-    <link rel="canonical" href="{{ .Params.canonical }}" />
+    {{- if isset .Site.Params "canonical" -}}
+    <link rel="canonical" href="{{ .Site.Params.canonical }}" />
     {{- else -}}
     <link rel="canonical" href="{{ .Permalink }}" />
     {{- end }}

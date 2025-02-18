@@ -1,33 +1,29 @@
 ---
-title: "关于网站"
-date: 2020-07-28T19:27:08+08:00
+title: "GPTXGeek：一站式AI工具导航平台，开启智能生活新体验"
+date: 2025-02-18T12:00:00+08:00
 draft: false
+tags: ["AI工具", "AI写作", "AI视频", "AI开发", "隐私保护"]
+categories: ["AI技术", "工具推荐"]
 ---
 
-#### 这是 Hugo 版 WebStack 主题
+在数字化时代，人工智能（AI）正以前所未有的速度改变着我们的生活和工作方式。从写作、设计到编程、学习，AI工具的广泛应用为人们带来了前所未有的便利和效率。**GPTXGeek**正是这样一个致力于汇聚全球顶尖AI工具的平台，旨在为用户提供一站式的AI解决方案，帮助每个人轻松拥抱智能科技的力量。
 
-本项目是基于**纯静态**的网址导航网站 [webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 制作的 [Hugo](https://gohugo.io/) 主题，其中部分代码参考了以下几个开源项目：<br/><br/>
+## 为什么选择GPTXGeek？
 
-- [https://github.com/liutongxu/liutongxu.github.io](https://github.com/liutongxu/liutongxu.github.io)
-- [https://github.com/iplaycode/webstack-hugo](https://github.com/iplaycode/webstack-hugo)
+### 全面的工具分类
+GPTXGeek精心筛选并分类了涵盖多个领域的AI工具，无论是AI对话聊天、写作辅助、论文生成，还是视频创作、编程辅助、设计优化，甚至是专业的法律咨询和学习平台，您都能在这里找到最适合您的工具。我们通过细致的分类，确保您能够快速定位到所需资源，节省时间和精力。
 
-<br/>
+### 精选优质工具
+我们深知工具的质量和实用性对于用户至关重要。因此，GPTXGeek上的每一个工具都经过严格筛选和评估，确保它们具备高效、可靠、易用的特点。无论是初学者还是专业人士，都能在这里找到满足需求的AI工具，助力您在工作和学习中更进一步。
 
-主题安装后，将 exampleSite 目录下的文件复制到 hugo 站点根目录，根据需要把 config.toml 的一些信息改成自己的，导航的网址信息可通过 data 目录下 webstack.yml 修改。
+### 助力高效创作与学习
+在快节奏的现代生活中，时间就是效率。GPTXGeek为您提供了丰富的AI生成工具，如AI写作助手、AI生成PPT、AI视频编辑等，帮助您快速完成创作任务。同时，我们还推荐了众多AI学习平台和开发工具，助力您提升技能，紧跟时代步伐。
 
-这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。
+### 隐私与安全的守护者
+我们深知数据隐私的重要性。GPTXGeek推荐的工具均注重用户隐私保护，确保您的个人信息和数据安全无忧。您可以放心使用这些工具，享受智能科技带来的便利，而不必担心隐私泄露的风险。
 
-WebStack 有非常多的魔改版本，这是其中一个。如果你对本主题进行了一些个性化调整，欢迎来本项目中 issue 分享一下！
+## 我们的目标
+**GPTXGeek**致力于成为您探索AI世界的可靠伙伴。我们希望通过精心整理和推荐的AI工具，帮助您在工作、学习和生活中实现更高的效率和创造力。无论您是学生、专业人士还是科技爱好者，GPTXGeek都将为您提供最优质、最实用的AI工具资源。
 
-<br/>
-
-#### 主题开源地址
-
-[https://github.com/shenweiyan/webstack-hugo](https://github.com/shenweiyan/webstack-hugo)
-
-<br/>
-
-#### 主题演示地址
-
-- [https://nav.bioitee.com](https://nav.bioitee.com)
-- [https://shenweiyan.github.io/webstack-hugo](https://shenweiyan.github.io/webstack-hugo)
+## 加入我们
+探索AI的无限可能，从**GPTXGeek**开始。立即访问我们的网站，发现更多高效、智能的AI工具，开启您的智能生活之旅。如果您有任何建议或反馈，也欢迎随时与我们联系，让我们共同推动AI技术的普及与发展。

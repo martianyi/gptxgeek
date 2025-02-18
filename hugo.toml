@@ -9,10 +9,11 @@ publishDir            = "public"				# 站点静态文件保存目录
 enableRobotsTXT       = true
 
 [params]
+    canonical     = "https://gptxgeek.com/"
     author        = "yikai"
     description   = "AI工具 |GPTXGeek | AI tools"
     upload        = "https://github.com/martianyi/gptxgeek/discussions/2"      # 左侧导航栏的"网站提交"
-    about         = ""	          # 左侧导航栏的"关于导航"页面(./about)
+    about         = "./about"	          # 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/martianyi/gptxgeek"  
     enablePreLoad = true					# 网站完全打开前预加载动画
     textPreLoad   = "GPTXGeek"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
