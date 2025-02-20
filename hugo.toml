@@ -29,7 +29,7 @@ enableRobotsTXT       = true
     baiduSiteVer    = ''			# 百度HTML标签验证(baidu-site-verification)
     googleSiteVer   = 'S0kWM0DJCy1Xtqih9cNJiKevjxfxT3HZdgJNPrJpIYo' # Google search console
     googleGtag       = 'G-0RJVNC6PJ6'					# Google Analytics
-    GoogleAdsClient = ''					# Google AdSense 
+    GoogleAdsClient = 'ca-pub-5605393944707521'					# Google AdSense 
 
 [params.qweather]
     key = ""
