@@ -3,9 +3,9 @@
   link: "/"
 
 - item: AI周报
-  icon: fa fa-book
+  icon: fas fa-satellite-dish
   link: "/weekly/"
 
 - item: 关于
-  icon: fa fa-cog
+  icon: fas fa-rocket
   link: "/about/"
