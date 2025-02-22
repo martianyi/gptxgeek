@@ -27,12 +27,11 @@ $.Site.Params.nightMode }}
 
           <!-- 新闻列表 -->
           <div class="timeline-container">
-            {{ $pages := where .Pages "Type" "weekly" }} {{ range
-            ($pages.GroupByDate "2006-01").Reverse }} {{ range
-            ($pages.GroupByDate "2006-01-02").Reverse }}
+            {{ $pages := where .Pages "Type" "weekly" }} 
+            {{ $sortedPages := $pages.ByDate.Reverse }}
 
             <!-- 文章内容 -->
-            {{ range .Pages }}
+            {{ range $sortedPages }}
             <!-- 日期块 -->
             <div class="date-marker">
               <div class="date-square"></div>
@@ -46,7 +45,7 @@ $.Site.Params.nightMode }}
                 <div class="article-body">{{ .Content }}</div>
               </article>
             </div>
-            {{ end }} {{ end }} {{ end }}
+            {{ end }}
           </div>
         </div>
       </div>
@@ -427,7 +426,7 @@ $.Site.Params.nightMode }}
       $(document).ready(function () {
 
         // 处理文章内容中的序号
-        $('li').each(function() {
+        $('.article-body li').each(function() {
           let text = $(this).html();
           console.log('text', text)
           const searchQuery = encodeURIComponent(text);
@@ -482,7 +481,6 @@ $.Site.Params.nightMode }}
         }
       
         $(".search-box input").on("input", function () {
-          console.log("🚀 ~ content=content.replace ~ text:", text)
           clearTimeout(searchTimeout);
           const searchText = $(this).val().trim();
       

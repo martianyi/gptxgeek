@@ -26,6 +26,58 @@
         .main-content{margin-left:0px;}
         .page-header{left:0px;}
         img{max-width:100%;}
+        /* 桌面端 */
+h1 {
+  font-size: 28px;
+  line-height: 1.4;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 1.4;
+  font-weight: 500;
+}
+
+h3 {
+  font-size: 20px;
+  line-height: 1.4;
+  font-weight: 500;
+}
+
+/* 移动端 */
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 24px;
+    line-height: 1.3;
+  }
+
+  h2 {
+    font-size: 20px;
+    line-height: 1.3;
+  }
+
+  h3 {
+    font-size: 18px;
+    line-height: 1.3;
+  }
+}
+
+/* 小屏幕移动端 */
+@media screen and (max-width: 375px) {
+  h1 {
+    font-size: 22px;
+  }
+
+  h2 {
+    font-size: 18px;
+  }
+
+  h3 {
+    font-size: 16px;
+  }
+}
+
     </style>
 
 {{ partial "content_footer.html" . }}
