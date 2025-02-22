@@ -1,618 +1,630 @@
-{{ partial "header.html" . }} {{ partial "content_header.html" . }} {{ if
-$.Site.Params.nightMode }}
+{{ partial "header.html" . }} 
+{{ partial "content_header.html" . }} 
+{{ if $.Site.Params.nightMode }}
 <body class="page-body boxed-container io-black-mode">
-  {{ else }}
-  <body class="page-body boxed-container io-grey-mode">
-    {{ end }}
-    <main role="main" class="flex-shrink-0">
-      <div class="container">
-        <div class="news-container">
-          <!-- 头部banner -->
-          <div class="news-header" style="background-color: #4169e1">
-            <!-- <div class="news-icon">
-              <img src="/images/news-icon.svg" alt="News Icon" />
-            </div> -->
-            <div class="header-text">
-              <h1>AI前沿周报：解锁智能新视界</h1>
-              <div class="subtitle">每周智能洞察，与未来同行</div>
-            </div>
-          </div>
-
-          <div class="search-wrapper">
-            <!-- 搜索框 -->
-            <div class="search-box">
-              <input type="text" placeholder="输入关键词搜索定位(精确匹配)" />
-            </div>
-          </div>
-
-          <!-- 新闻列表 -->
-          <div class="timeline-container">
-            {{ $pages := where .Pages "Type" "weekly" }} 
-            {{ $sortedPages := $pages.ByDate.Reverse }}
-
-            <!-- 文章内容 -->
-            {{ range $sortedPages }}
-            <!-- 日期块 -->
-            <div class="date-marker">
-              <div class="date-square"></div>
-              <div class="date-text">
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
-              </div>
-            </div>
-            <div class="article-item">
-              <div class="dot-marker"></div>
-              <article class="article-content">
-                <div class="article-body">{{ .Content }}</div>
-              </article>
-            </div>
-            {{ end }}
-          </div>
+{{ else }}
+<body class="page-body boxed-container io-grey-mode">
+{{ end }}
+<main role="main" class="flex-shrink-0">
+  <div class="container">
+    <div class="news-container">
+      <!-- 头部banner -->
+      <div class="news-header" style="background-color: #4169e1">
+        <!-- <div class="news-icon">
+          <img src="/images/news-icon.svg" alt="News Icon" />
+        </div> -->
+        <div class="header-text">
+          <h3>AI前沿周报：解锁智能新视界</h3>
+          <div>每周智能洞察，与未来同行</div>
         </div>
       </div>
-    </main>
 
-    <style>
-      .content {
-        font-size: 16px;
-      }
-      .content a {
-        color: #007bff;
-      }
-      .content a:hover {
-        color: #f1404b;
-      }
-      .content h1,
-      .content h2,
-      .content h3,
-      .content h4 {
-        margin: 15px 15px 15px 0px;
-      }
-      .content p {
-        line-height: 1.5;
-        margin: 15px 0;
-      }
-      .big-header-banner .page-header {
-        background: gray;
-      }
-      .main-content {
-        margin-left: 0px;
-      }
-      .page-header {
-        left: 0px;
-      }
-      img {
-        max-width: 100%;
-      }
-      .news-container {
-        position: relative;
-        padding: 20px;
-      }
+      <div class="search-wrapper">
+        <div class="subtitle">*每周日更新，点击可查看AI解读</div>
+        <!-- 搜索框 -->
+        <div class="search-box">
+          <input type="text" placeholder="输入关键词搜索定位(精确匹配)" />
+        </div>
+      </div>
 
-      .news-header {
-        display: flex;
-        align-items: center;
-        padding: 20px;
-        border-radius: 10px;
-        color: white;
-        margin-bottom: 20px;
-      }
+      <!-- 新闻列表 -->
+      <div class="timeline-container">
+        {{ $pages := where .Pages "Type" "weekly" }} 
+        {{ $sortedPages := $pages.ByDate.Reverse }}
 
-      .news-item {
-        margin-bottom: 30px;
-        border-left: 2px solid #4169e1;
-        padding-left: 20px;
-      }
-      /* 调整时间线容器的内边距 */
-      .timeline-container {
-        padding: 20px 0 20px 40px; /* 修改左内边距，移除右内边距 */
-        position: relative;
-        margin-left: 20px; /* 添加左外边距 */
-      }
+        <!-- 文章内容 -->
+        {{ range $sortedPages }}
+        <!-- 日期块 -->
+        <div class="date-marker">
+          <div class="date-square"></div>
+          <div class="date-text">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </div>
+        </div>
+        <div class="article-item">
+          <div class="dot-marker"></div>
+          <article class="article-content">
+            <div class="article-body">{{ .Content }}</div>
+          </article>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</main>
 
-      /* 调整时间轴线的位置 */
-      .timeline-container::before {
-        content: "";
-        position: absolute;
-        left: 6px; /* 修改左定位，使线条对齐方块 */
-        top: 0;
-        bottom: 0;
-        width: 1px;
-        background-color: rgba(217, 217, 217, 0.5);
-      }
+<style>
+  .content {
+    font-size: 16px;
+  }
+  .content a {
+    color: #007bff;
+  }
+  .content a:hover {
+    color: #f1404b;
+  }
+  .content h1,
+  .content h2,
+  .content h3,
+  .content h4 {
+    margin: 15px 15px 15px 0px;
+  }
+  .content p {
+    line-height: 1.5;
+    margin: 15px 0;
+  }
+  .big-header-banner .page-header {
+    background: gray;
+  }
+  .main-content {
+    margin-left: 0px;
+  }
+  .page-header {
+    left: 0px;
+  }
+  img {
+    max-width: 100%;
+  }
+  .news-container {
+    position: relative;
+    padding: 20px;
+  }
 
-      /* 调整日期标记的样式 */
-      .date-marker {
-        display: flex;
-        align-items: center;
-        border-radius: 25px;
-        margin: 30px 0 20px -40px; /* 修改左边距，使日期标记对齐 */
-        position: relative;
-      }
+  .news-header {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 20px;
+  }
 
-      .date-square {
-        width: 12px;
-        height: 12px;
-        background-color: #4660ff;
-        margin-right: 15px;
-        position: relative;
-        z-index: 1; /* 确保方块在线之上 */
-      }
+  .news-item {
+    margin-bottom: 30px;
+    border-left: 2px solid #4169e1;
+    padding-left: 20px;
+  }
 
-      /* 调整文章项的位置 */
-      .article-item {
-        position: relative;
-        margin: 20px 0 20px 0; /* 修改左边距 */
-        padding-left: 20px; /* 添加左内边距 */
-      }
+  .subtitle {
+    color: #999;
+  }
 
-      :root {
-        --pulseSize: 8px;
-        --blue: rgba(95, 139, 250, 0.65);
-        --transparentBlue: rgba(95, 139, 250, 0);
-      }
+  /* 调整时间线容器的内边距 */
+  .timeline-container {
+    padding: 20px 0 20px 40px; /* 修改左内边距，移除右内边距 */
+    position: relative;
+    margin-left: 20px; /* 添加左外边距 */
+  }
 
-      /* 调整圆点标记的位置 */
-      .dot-marker {
-        position: absolute;
-        left: -38px; /* 调整圆点位置 */
-        top: 14px;
-        width: var(--pulseSize);
-        height: var(--pulseSize);
-        border-radius: 50%;
-        background-color: var(--blue);
-        box-shadow: 0 0 0 var(--blue);
-        animation: pulsing 2s infinite;
-        transition: all 0.2s;
-        z-index: 1; /* 确保圆点在线之上 */
-      }
+  /* 调整时间轴线的位置 */
+  .timeline-container::before {
+    content: "";
+    position: absolute;
+    left: 6px; /* 修改左定位，使线条对齐方块 */
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background-color: rgba(217, 217, 217, 0.5);
+  }
 
-      .dot-marker:hover {
-        --blue: rgba(209, 167, 160, 0.65);
-        --transparentBlue: rgba(209, 167, 160, 0);
-      }
+  /* 调整日期标记的样式 */
+  .date-marker {
+    display: flex;
+    align-items: center;
+    border-radius: 25px;
+    margin: 30px 0 20px -40px; /* 修改左边距，使日期标记对齐 */
+    position: relative;
+  }
 
-      .dot-marker:active {
-        transform: scale(1.5);
-      }
+  .date-square {
+    width: 12px;
+    height: 12px;
+    background-color: #4660ff;
+    margin-right: 15px;
+    position: relative;
+    z-index: 1; /* 确保方块在线之上 */
+  }
 
-      @keyframes pulsing {
-        from {
-          box-shadow: 0 0 0 0 var(--blue);
-        }
-        70% {
-          box-shadow: 0 0 0 var(--pulseSize) var(--transparentBlue);
-        }
-        to {
-          box-shadow: 0 0 0 0 var(--transparentBlue);
-        }
-      }
+  /* 调整文章项的位置 */
+  .article-item {
+    position: relative;
+    margin: 20px 0 20px 0; /* 修改左边距 */
+    padding-left: 20px; /* 添加左内边距 */
+  }
 
-      /* 文章内容 */
-      .article-content {
-        background: transparent;
-        padding: 0;
-      }
+  :root {
+    --pulseSize: 8px;
+    --blue: rgba(95, 139, 250, 0.65);
+    --transparentBlue: rgba(95, 139, 250, 0);
+  }
 
-      .article-title {
-        margin: 0 0 12px 0;
-      }
+  /* 调整圆点标记的位置 */
+  .dot-marker {
+    position: absolute;
+    left: -38px; /* 调整圆点位置 */
+    top: 14px;
+    width: var(--pulseSize);
+    height: var(--pulseSize);
+    border-radius: 50%;
+    background-color: var(--blue);
+    box-shadow: 0 0 0 var(--blue);
+    animation: pulsing 2s infinite;
+    transition: all 0.2s;
+    z-index: 1; /* 确保圆点在线之上 */
+  }
 
-      .article-title a {
-        color: #333;
-        text-decoration: none;
-        font-size: 16px;
-        font-weight: 500;
-        line-height: 1.5;
-      }
+  .dot-marker:hover {
+    --blue: rgba(209, 167, 160, 0.65);
+    --transparentBlue: rgba(209, 167, 160, 0);
+  }
 
-      /* 添加一个包装容器用于 sticky 定位 */
-      .search-wrapper {
-        position: sticky;
-        top: 0;
-        z-index: 1000;
-        background: transparent; /* 或者与你的页面背景色匹配 */
-        padding: 10px 0;
-        margin: -10px 0; /* 抵消padding造成的间距 */
-        /* 可选：添加底部阴影效果 */
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
-        transition: box-shadow 0.3s ease;
-      }
+  .dot-marker:active {
+    transform: scale(1.5);
+  }
 
-      /* 滚动时添加更明显的阴影 */
-      .search-wrapper.scrolled {
-        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-      }
+  @keyframes pulsing {
+    from {
+      box-shadow: 0 0 0 0 var(--blue);
+    }
+    70% {
+      box-shadow: 0 0 0 var(--pulseSize) var(--transparentBlue);
+    }
+    to {
+      box-shadow: 0 0 0 0 var(--transparentBlue);
+    }
+  }
 
-      .search-box {
-        position: relative;
-        margin: 20px 0;
-        /* 如果需要左右留白，可以加上 */
-        padding: 0 20px;
-      }
+  /* 文章内容 */
+  .article-content {
+    background: transparent;
+    padding: 0;
+  }
 
-      /* 调整搜索结果的定位，使其相对于 search-wrapper */
-      .search-results {
-        position: absolute;
-        top: 100%;
-        left: 20px; /* 与 search-box 的 padding 对应 */
-        right: 20px;
-        margin-top: 5px;
-        background: white;
-        border: 1px solid #eee;
-        border-radius: 5px;
-        max-height: 300px;
-        overflow-y: auto;
-        z-index: 1000;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        display: none;
-      }
+  .article-title {
+    margin: 0 0 12px 0;
+  }
 
-      .search-box input {
-        width: 100%;
-        padding: 10px;
-        border: 1px solid #eee;
-        border-radius: 5px;
-        background-color: #f5f5f5;
-      }
+  .article-title a {
+    color: #333;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+  }
 
-      .search-result-item {
-        padding: 10px;
-        cursor: pointer;
-        border-bottom: 1px solid #eee;
-      }
+  .io-grey-mode .search-wrapper {
+    background-color: #f9f9f9;
+  }
+  
+  .io-black-mode .search-wrapper {
+    background-color: #1b1d1f;
+  }
 
-      .search-result-item:hover {
-        background-color: #f5f5f5;
-      }
+  /* 添加一个包装容器用于 sticky 定位 */
+  .search-wrapper {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    padding: 10px 0;
+    margin: -10px 0; /* 抵消padding造成的间距 */
+    transition: box-shadow 0.3s ease;
+  }
 
-      .result-title {
-        font-weight: 500;
-        margin-bottom: 4px;
-      }
+  /* 滚动时添加更明显的阴影 */
+  .search-wrapper.scrolled {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
 
-      .result-preview {
-        font-size: 13px;
-        color: #666;
-        line-height: 1.4;
-      }
+  .search-box {
+    position: relative;
+    margin: 20px 0;
+    /* 如果需要左右留白，可以加上 */
+    padding: 0 20px;
+  }
 
-      .no-results {
-        padding: 10px;
-        color: #666;
-        text-align: center;
-      }
+  /* 调整搜索结果的定位，使其相对于 search-wrapper */
+  .search-results {
+    position: absolute;
+    top: 100%;
+    left: 20px; /* 与 search-box 的 padding 对应 */
+    right: 20px;
+    margin-top: 5px;
+    background: white;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    max-height: 300px;
+    overflow-y: auto;
+    z-index: 1000;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: none;
+  }
 
-      /* 关键字高亮样式 */
-      .highlight-text {
-        background-color: transparent;
-        color: #4660ff;
-        font-weight: bold;
-      }
+  .search-box input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+  }
 
-      /* 响应式适配 */
-      @media (max-width: 768px) {
-        .timeline-container {
-          padding-left: 30px; /* 移动端减少左内边距 */
-          margin-left: 10px; /* 移动端减少左外边距 */
-        }
+  .search-result-item {
+    padding: 10px;
+    cursor: pointer;
+    border-bottom: 1px solid #eee;
+  }
 
-        .date-marker {
-          margin-left: -30px; /* 移动端调整日期标记位置 */
-        }
+  .search-result-item:hover {
+    background-color: #f5f5f5;
+  }
 
-        .dot-marker {
-          left: -28px; /* 移动端调整圆点位置 */
-        }
-      }
+  .result-title {
+    font-weight: 500;
+    margin-bottom: 4px;
+  }
 
-      /* 如果你的网站有顶部导航栏，需要调整 top 值 */
-      @media (min-width: 769px) {
-        .search-wrapper {
-          top: 60px; /* 根据你的导航栏高度调整 */
-        }
-      }
+  .result-preview {
+    font-size: 13px;
+    color: #666;
+    line-height: 1.4;
+  }
 
-      /* 移动端适配 */
-      @media (max-width: 768px) {
-        .search-wrapper {
-          top: 0;
-          padding: 10px;
-          margin: -10px -20px; /* 使搜索框延伸到边缘 */
-        }
+  .no-results {
+    padding: 10px;
+    color: #666;
+    text-align: center;
+  }
 
-        .search-box {
-          padding: 0;
-          margin: 10px 0;
-        }
+  /* 关键字高亮样式 */
+  .highlight-text {
+    background-color: transparent;
+    color: #4660ff;
+    font-weight: bold;
+  }
 
-        .search-results {
-          left: 0;
-          right: 0;
-        }
-      }
+  /* 响应式适配 */
+  @media (max-width: 768px) {
+    .timeline-container {
+      padding-left: 30px; /* 移动端减少左内边距 */
+      margin-left: 10px; /* 移动端减少左外边距 */
+    }
 
-      /* 文章内容样式优化 */
-      .article-body {
-        font-size: 14px;
-        line-height: 1.6;
-      }
+    .date-marker {
+      margin-left: -30px; /* 移动端调整日期标记位置 */
+    }
 
-      /* 一级标题样式 */
-      .article-body h2 {
-        font-size: 20px;
-        font-weight: 600;
-        margin: 24px 0 16px;
-        border-bottom: 2px solid #4660ff;
-        padding-bottom: 8px;
-      }
+    .dot-marker {
+      left: -28px; /* 移动端调整圆点位置 */
+    }
+  }
 
-      /* 二级标题样式 */
-      .article-body h3 {
-        font-size: 18px;
-        font-weight: 500;
-        margin: 20px 0 12px;
-      }
+  /* 如果你的网站有顶部导航栏，需要调整 top 值 */
+  @media (min-width: 769px) {
+    .search-wrapper {
+      top: 60px; /* 根据你的导航栏高度调整 */
+    }
+  }
 
-      /* 列表样式 */
-      .article-body ul,
-      .article-body ol {
-        padding-left: 20px;
-        margin: 12px 0;
-      }
+  /* 移动端适配 */
+  @media (max-width: 768px) {
+    .search-wrapper {
+      top: 80px;
+      padding: 10px;
+      margin: -10px -20px; /* 使搜索框延伸到边缘 */
+    }
 
-      .article-body li {
-        margin: 8px 0;
-        line-height: 1.5;
-      }
+    .search-box {
+      padding: 0;
+      margin: 10px 0;
+    }
 
-      /* 分类标题样式 */
-      .article-body ul > li > strong,
-      .article-body ol > li > strong {
-        color: #4660ff;
-        font-weight: 500;
-      }
+    .search-results {
+      left: 0;
+      right: 0;
+    }
+  }
 
-      /* 嵌套列表样式 */
-      .article-body ul ul,
-      .article-body ol ol,
-      .article-body ul ol,
-      .article-body ol ul {
-        margin: 8px 0 8px 16px;
-      }
+  /* 文章内容样式优化 */
+  .article-body {
+    font-size: 14px;
+    line-height: 1.6;
+  }
 
-      /* 分隔线样式 */
-      .article-body hr {
-        border: none;
-        border-top: 1px solid #eee;
-        margin: 24px 0;
-      }
+  /* 一级标题样式 */
+  .article-body h2 {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 24px 0 16px;
+    border-bottom: 2px solid #4660ff;
+    padding-bottom: 8px;
+  }
 
-      /* 段落样式 */
-      .article-body p {
-        margin: 12px 0;
-      }
+  /* 二级标题样式 */
+  .article-body h3 {
+    font-size: 18px;
+    font-weight: 500;
+    margin: 20px 0 12px;
+  }
 
-      /* 链接样式 */
-      .article-body a {
-        color: #4660ff;
-        text-decoration: none;
-        transition: color 0.2s;
-      }
+  /* 列表样式 */
+  .article-body ul,
+  .article-body ol {
+    padding-left: 20px;
+    margin: 12px 0;
+  }
 
-      .article-body a:hover {
-        color: #333;
-        text-decoration: underline;
-      }
+  .article-body li {
+    margin: 8px 0;
+    line-height: 1.5;
+  }
 
-      /* 移动端适配 */
-      @media (max-width: 768px) {
-        .article-body {
-          font-size: 14px;
-        }
+  /* 分类标题样式 */
+  .article-body ul > li > strong,
+  .article-body ol > li > strong {
+    color: #4660ff;
+    font-weight: 500;
+  }
 
-        .article-body h2 {
-          font-size: 18px;
-        }
+  /* 嵌套列表样式 */
+  .article-body ul ul,
+  .article-body ol ol,
+  .article-body ul ol,
+  .article-body ol ul {
+    margin: 8px 0 8px 16px;
+  }
 
-        .article-body h3 {
-          font-size: 16px;
-        }
-      }
-    </style>
+  /* 分隔线样式 */
+  .article-body hr {
+    border: none;
+    border-top: 1px solid #eee;
+    margin: 24px 0;
+  }
 
-    {{ partial "content_footer.html" . }} {{ partial "footer.html" . }}
+  /* 段落样式 */
+  .article-body p {
+    margin: 12px 0;
+  }
 
-    <script>
-      $(document).ready(function () {
+  /* 链接样式 */
+  .article-body a {
+    color: #4660ff;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
 
-        // 处理文章内容中的序号
-        $('.article-body li').each(function() {
-          let text = $(this).html();
-          console.log('text', text)
-          const searchQuery = encodeURIComponent(text);
-          $(this).html(`<a href="https://chat.baidu.com/search?word=根据以下信息搜集全网最新资料，并解读。信息：${searchQuery}" target="_blank">${text}</a>`);
-        });
-        
-        // 防止链接点击事件冒泡，避免触发父元素的事件
-        $('.article-body a').on('click', function(e) {
-          e.stopPropagation();
-        });
+  .article-body a:hover {
+    color: #333;
+    text-decoration: underline;
+  }
+
+  /* 移动端适配 */
+  @media (max-width: 768px) {
+    .article-body {
+      font-size: 14px;
+    }
+
+    .article-body h2 {
+      font-size: 18px;
+    }
+
+    .article-body h3 {
+      font-size: 16px;
+    }
+  }
+</style>
+
+{{ partial "content_footer.html" . }} 
+{{ partial "footer.html" . }}
+
+<script>
+  $(document).ready(function () {
+
+    // 处理文章内容中的序号
+    $('.article-body li').each(function() {
+      let text = $(this).html();
+      const searchQuery = encodeURIComponent(text);
+      $(this).html(`<a href="https://chat.baidu.com/search?word=根据以下信息搜集全网最新资料，并解读。信息：${searchQuery}" target="_blank">${text}</a>`);
+    });
+    
+    // 防止链接点击事件冒泡，避免触发父元素的事件
+    $('.article-body a').on('click', function(e) {
+      e.stopPropagation();
+    });
 
 
-        $(".search-box").append('<div class="search-results"></div>');
+    $(".search-box").append('<div class="search-results"></div>');
+  
+    let searchTimeout;
+    let lastSearchText = "";
+  
+    // 修改后的高亮文本函数，保留 HTML 标记
+    function highlightText(html, searchText) {
+      if (!searchText) return html;
       
-        let searchTimeout;
-        let lastSearchText = "";
+      // 创建临时容器来解析 HTML
+      const div = document.createElement('div');
+      div.innerHTML = html;
       
-        // 修改后的高亮文本函数，保留 HTML 标记
-        function highlightText(html, searchText) {
-          if (!searchText) return html;
-          
-          // 创建临时容器来解析 HTML
-          const div = document.createElement('div');
-          div.innerHTML = html;
-          
-          // 递归处理文本节点
-          function highlightTextNodes(node) {
-            if (node.nodeType === 3) { // 文本节点
-              const text = node.nodeValue;
-              const regex = new RegExp(`(${searchText})`, "gi");
-              if (regex.test(text)) {
-                const span = document.createElement('span');
-                span.innerHTML = text.replace(regex, '<span class="highlight-text">$1</span>');
-                node.parentNode.replaceChild(span, node);
-              }
-            } else if (node.nodeType === 1) { // 元素节点
-              Array.from(node.childNodes).forEach(highlightTextNodes);
+      // 递归处理文本节点
+      function highlightTextNodes(node) {
+        if (node.nodeType === 3) { // 文本节点
+          const text = node.nodeValue;
+          const regex = new RegExp(`(${searchText})`, "gi");
+          if (regex.test(text)) {
+            const span = document.createElement('span');
+            span.innerHTML = text.replace(regex, '<span class="highlight-text">$1</span>');
+            node.parentNode.replaceChild(span, node);
+          }
+        } else if (node.nodeType === 1) { // 元素节点
+          Array.from(node.childNodes).forEach(highlightTextNodes);
+        }
+      }
+      
+      highlightTextNodes(div);
+      return div.innerHTML;
+    }
+  
+    // 修改后的移除高亮函数
+    function removeHighlight() {
+      $(".highlight-text").each(function() {
+        const $this = $(this);
+        const text = $this.text();
+        $this.replaceWith(text);
+      });
+    }
+  
+    $(".search-box input").on("input", function () {
+      clearTimeout(searchTimeout);
+      const searchText = $(this).val().trim();
+  
+      // 清除之前的搜索结果和高亮
+      $(".search-results").empty();
+      removeHighlight();
+  
+      if (searchText === "") {
+        $(".search-results").hide();
+        lastSearchText = "";
+        return;
+      }
+  
+      searchTimeout = setTimeout(function () {
+        let results = [];
+        lastSearchText = searchText;
+  
+        // 搜索标题和内容
+        $(".article-item").each(function () {
+          const $item = $(this);
+          const $title = $item.find(".article-title a");
+          const $body = $item.find(".article-body");
+  
+          const titleText = $title.text();
+          const bodyText = $body.text();
+  
+          const titleMatch = titleText
+            .toLowerCase()
+            .includes(searchText.toLowerCase());
+          const bodyMatch = bodyText
+            .toLowerCase()
+            .includes(searchText.toLowerCase());
+  
+          if (titleMatch || bodyMatch) {
+            // 高亮匹配的文本
+            if (titleMatch) {
+              $title.html(highlightText($title.html(), searchText));
             }
-          }
-          
-          highlightTextNodes(div);
-          return div.innerHTML;
-        }
-      
-        // 修改后的移除高亮函数
-        function removeHighlight() {
-          $(".highlight-text").each(function() {
-            const $this = $(this);
-            const text = $this.text();
-            $this.replaceWith(text);
-          });
-        }
-      
-        $(".search-box input").on("input", function () {
-          clearTimeout(searchTimeout);
-          const searchText = $(this).val().trim();
-      
-          // 清除之前的搜索结果和高亮
-          $(".search-results").empty();
-          removeHighlight();
-      
-          if (searchText === "") {
-            $(".search-results").hide();
-            lastSearchText = "";
-            return;
-          }
-      
-          searchTimeout = setTimeout(function () {
-            let results = [];
-            lastSearchText = searchText;
-      
-            // 搜索标题和内容
-            $(".article-item").each(function () {
-              const $item = $(this);
-              const $title = $item.find(".article-title a");
-              const $body = $item.find(".article-body");
-      
-              const titleText = $title.text();
-              const bodyText = $body.text();
-      
-              const titleMatch = titleText
-                .toLowerCase()
-                .includes(searchText.toLowerCase());
-              const bodyMatch = bodyText
-                .toLowerCase()
-                .includes(searchText.toLowerCase());
-      
-              if (titleMatch || bodyMatch) {
-                // 高亮匹配的文本
-                if (titleMatch) {
-                  $title.html(highlightText($title.html(), searchText));
-                }
-                if (bodyMatch) {
-                  $body.html(highlightText($body.html(), searchText));
-                }
-      
-                // 为搜索结果准备预览文本
-                let previewText = "";
-                if (titleMatch) {
-                  previewText = titleText;
-                } else {
-                  const matchIndex = bodyText
-                    .toLowerCase()
-                    .indexOf(searchText.toLowerCase());
-                  const startIndex = Math.max(0, matchIndex - 20);
-                  const endIndex = Math.min(
-                    bodyText.length,
-                    matchIndex + searchText.length + 20
-                  );
-                  previewText =
-                    (startIndex > 0 ? "..." : "") +
-                    bodyText.substring(startIndex, endIndex) +
-                    (endIndex < bodyText.length ? "..." : "");
-                }
-      
-                results.push({
-                  title: titleText,
-                  preview: previewText,
-                  element: $item,
-                  isTitle: titleMatch,
-                });
-              }
-            });
-      
-            // 显示搜索结果部分保持不变
-            if (results.length > 0) {
-              const $results = $(".search-results");
-              $results.empty().show();
-      
-              results.forEach(function (result) {
-                const $resultItem = $('<div class="search-result-item">');
-                const $resultTitle = $('<div class="result-title">').html(
-                  highlightText(result.title, searchText)
-                );
-                const $resultPreview = $('<div class="result-preview">').html(
-                  highlightText(result.preview, searchText)
-                );
-      
-                $resultItem
-                  .append($resultTitle)
-                  .append(result.isTitle ? "" : $resultPreview)
-                  .on("click", function () {
-                    $("html, body").animate(
-                      {
-                        scrollTop: result.element.offset().top - 100,
-                      },
-                      500
-                    );
-                    $results.hide();
-                  });
-      
-                $results.append($resultItem);
-              });
+            if (bodyMatch) {
+              $body.html(highlightText($body.html(), searchText));
+            }
+  
+            // 为搜索结果准备预览文本
+            let previewText = "";
+            if (titleMatch) {
+              previewText = titleText;
             } else {
-              $(".search-results")
-                .html('<div class="no-results">未找到匹配的结果</div>')
-                .show();
+              const matchIndex = bodyText
+                .toLowerCase()
+                .indexOf(searchText.toLowerCase());
+              const startIndex = Math.max(0, matchIndex - 20);
+              const endIndex = Math.min(
+                bodyText.length,
+                matchIndex + searchText.length + 20
+              );
+              previewText =
+                (startIndex > 0 ? "..." : "") +
+                bodyText.substring(startIndex, endIndex) +
+                (endIndex < bodyText.length ? "..." : "");
             }
-          }, 300);
-        });
-      
-        // 其他事件处理保持不变
-        $(document).on("click", function (e) {
-          if (!$(e.target).closest(".search-box").length) {
-            $(".search-results").hide();
+  
+            results.push({
+              title: titleText,
+              preview: previewText,
+              element: $item,
+              isTitle: titleMatch,
+            });
           }
         });
-      
-        $(".search-box input").on("blur", function () {
-          if ($(this).val().trim() === "") {
-            removeHighlight();
-          }
-        });
-      });
-      
-
-      // 添加到现有的 JavaScript 代码中
-      $(window).on("scroll", function () {
-        const $searchWrapper = $(".search-wrapper");
-        if ($(window).scrollTop() > 100) {
-          // 可以调整这个值
-          $searchWrapper.addClass("scrolled");
+  
+        // 显示搜索结果部分保持不变
+        if (results.length > 0) {
+          const $results = $(".search-results");
+          $results.empty().show();
+  
+          results.forEach(function (result) {
+            const $resultItem = $('<div class="search-result-item">');
+            const $resultTitle = $('<div class="result-title">').html(
+              highlightText(result.title, searchText)
+            );
+            const $resultPreview = $('<div class="result-preview">').html(
+              highlightText(result.preview, searchText)
+            );
+  
+            $resultItem
+              .append($resultTitle)
+              .append(result.isTitle ? "" : $resultPreview)
+              .on("click", function () {
+                $("html, body").animate(
+                  {
+                    scrollTop: result.element.offset().top - 100,
+                  },
+                  500
+                );
+                $results.hide();
+              });
+  
+            $results.append($resultItem);
+          });
         } else {
-          $searchWrapper.removeClass("scrolled");
+          $(".search-results")
+            .html('<div class="no-results">未找到匹配的结果</div>')
+            .show();
         }
-      });
-    </script>
-  </body>
-</body>
+      }, 300);
+    });
+  
+    // 其他事件处理保持不变
+    $(document).on("click", function (e) {
+      if (!$(e.target).closest(".search-box").length) {
+        $(".search-results").hide();
+      }
+    });
+  
+    $(".search-box input").on("blur", function () {
+      if ($(this).val().trim() === "") {
+        removeHighlight();
+      }
+    });
+  });
+  
+
+  // 添加到现有的 JavaScript 代码中
+  $(window).on("scroll", function () {
+    const $searchWrapper = $(".search-wrapper");
+    if ($(window).scrollTop() > 100) {
+      // 可以调整这个值
+      $searchWrapper.addClass("scrolled");
+    } else {
+      $searchWrapper.removeClass("scrolled");
+    }
+  });
+</script>
+
+{{ partial "modal_search.html" . }}

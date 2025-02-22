@@ -22,7 +22,7 @@ var theme = {"ajaxurl":"","addico":"https:\/\/nav.baidu.cn\/wp-content\/themes\/
         siteWelcome.addClass('close');
         setTimeout(function() {
             siteWelcome.remove();
-        }, 600);
+        }, 200);
     });
 </script>
 <script>        
@@ -73,27 +73,51 @@ var theme = {"ajaxurl":"","addico":"https:\/\/nav.baidu.cn\/wp-content\/themes\/
 
 <script>
 //夜间(日间)模式
-(function(){
-    if(document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/, "$1") === ''){
-        if(new Date().getHours() > 22 || new Date().getHours() < 6){
-            document.body.classList.remove('io-black-mode');
-            document.body.classList.add('io-grey-mode');
-            document.cookie = "night=1;path=/";
-            console.log('夜间模式开启');
-        }else{
-            document.body.classList.remove('night');
-            document.cookie = "night=0;path=/";
-            console.log('夜间模式关闭');
-        }
-    }else{
-        var night = document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/, "$1") || '0';
-        if(night == '0'){
-            document.body.classList.remove('night');
-        }else if(night == '1'){
-            document.body.classList.add('night');
-        }
+$(function() {
+  // 检查浏览器是否支持 prefers-color-scheme
+  if (window.matchMedia) {
+    // 创建媒体查询
+    const darkModeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+    
+    // 初始化检查
+    handleThemeChange(darkModeMediaQuery);
+    
+    // 监听系统主题变化
+    try {
+      // 现代浏览器使用 addEventListener
+      darkModeMediaQuery.addEventListener('change', (e) => {
+        handleThemeChange(e);
+      });
+    } catch (e1) {
+      try {
+        // 兼容旧版 Safari
+        darkModeMediaQuery.addListener((e) => {
+          handleThemeChange(e);
+        });
+      } catch (e2) {
+        console.error('浏览器不支持主题切换监听', e2);
+      }
     }
-})();
+  }
+  
+  // 处理主题变化
+  function handleThemeChange(e) {
+    // 获取当前主题状态
+    const isDarkMode = e.matches;
+    
+    // 获取当前页面主题状态
+    const isCurrentlyDark = $('body').hasClass('io-black-mode');
+    
+    // 只有当系统主题与当前页面主题不一致时才触发切换
+    if (isDarkMode !== isCurrentlyDark) {
+      // 触发切换按钮的点击事件
+      $('.switch-dark-mode').trigger('click');
+      
+      // 输出调试信息
+      console.log('系统主题发生变化：', isDarkMode ? '深色模式' : '浅色模式');
+    }
+  }
+})
 </script>
 </body>
 </html>

@@ -1,85 +1,122 @@
-{{ partial "header.html" . }}
-
-{{ partial "content_header.html" . }}
-
+{{ partial "header.html" . }} 
+{{ partial "content_header.html" . }} 
 {{ if $.Site.Params.nightMode }}
-<body class="page-body boxed-container io-black-mode">
+  <body class="page-body boxed-container io-black-mode">
 {{ else }}
-<body class="page-body boxed-container io-grey-mode">
+  <body class="page-body boxed-container io-grey-mode">
 {{ end }}
-    <main role="main" class="flex-shrink-0">
-    <div class="container">
-        <h1 class="mt-5">{{ .Title }}</h1>
-        <div class="content">
-            {{ .Content | markdownify | safeHTML }}
-        </div>
-    </div>
-    </main>
+<main role="main" class="flex-shrink-0">
+  <div class="container">
+    <h1 class="mt-5">{{ .Title }}</h1>
+    <div class="content">{{ .Content | markdownify | safeHTML }}</div>
+  </div>
+</main>
 
-    <style>
-        .content{font-size:16px;}
-        .content a{color:#007bff;}
-        .content a:hover{color:#f1404b;}
-        .content h1,.content h2,.content h3,.content h4{margin: 15px 15px 15px 0px;}
-        .content p{line-height:1.5;margin:15px 0;}
-        .big-header-banner .page-header{background:gray;}
-        .main-content{margin-left:0px;}
-        .page-header{left:0px;}
-        img{max-width:100%;}
-        /* 桌面端 */
-h1 {
-  font-size: 28px;
-  line-height: 1.4;
-  font-weight: 600;
-}
-
-h2 {
-  font-size: 24px;
-  line-height: 1.4;
-  font-weight: 500;
-}
-
-h3 {
-  font-size: 20px;
-  line-height: 1.4;
-  font-weight: 500;
-}
-
-/* 移动端 */
-@media screen and (max-width: 768px) {
-  h1 {
-    font-size: 24px;
-    line-height: 1.3;
-  }
-
-  h2 {
-    font-size: 20px;
-    line-height: 1.3;
-  }
-
-  h3 {
-    font-size: 18px;
-    line-height: 1.3;
-  }
-}
-
-/* 小屏幕移动端 */
-@media screen and (max-width: 375px) {
-  h1 {
-    font-size: 22px;
-  }
-
-  h2 {
-    font-size: 18px;
-  }
-
-  h3 {
+<style>
+  .content {
     font-size: 16px;
   }
-}
+  .content a {
+    color: #007bff;
+  }
+  .content a:hover {
+    color: #f1404b;
+  }
+  .content h1,
+  .content h2,
+  .content h3,
+  .content h4 {
+    margin: 15px 15px 15px 0px;
+  }
+  .content p {
+    line-height: 1.5;
+    margin: 15px 0;
+  }
+  .big-header-banner .page-header {
+    background: gray;
+  }
+  .main-content {
+    margin-left: 0px;
+  }
+  .page-header {
+    left: 0px;
+  }
+  img {
+    max-width: 100%;
+  }
+  /* 桌面端 */
+  h1 {
+    font-size: 28px;
+    line-height: 1.4;
+    font-weight: 600;
+  }
 
-    </style>
+  h2 {
+    font-size: 24px;
+    line-height: 1.4;
+    font-weight: 500;
+  }
 
-{{ partial "content_footer.html" . }}
+  h3 {
+    font-size: 20px;
+    line-height: 1.4;
+    font-weight: 500;
+  }
 
+  /* 移动端 */
+  @media screen and (max-width: 768px) {
+    h1 {
+      font-size: 24px;
+      line-height: 1.3;
+    }
+
+    h2 {
+      font-size: 20px;
+      line-height: 1.3;
+    }
+
+    h3 {
+      font-size: 18px;
+      line-height: 1.3;
+    }
+  }
+
+  /* 小屏幕移动端 */
+  @media screen and (max-width: 375px) {
+    h1 {
+      font-size: 22px;
+    }
+
+    h2 {
+      font-size: 18px;
+    }
+
+    h3 {
+      font-size: 16px;
+    }
+  }
+</style>
+
+{{ partial "content_footer.html" . }} 
 {{ partial "footer.html" . }}
+
+<script>
+  $(function () {
+    // 处理文章内容中的序号
+    $(".content li").each(function () {
+      let text = $(this).html();
+      console.log("text", text);
+      const searchQuery = encodeURIComponent(text);
+      $(this).html(
+        `<a href="https://chat.baidu.com/search?word=根据以下信息搜集全网最新资料，并解读。信息：${searchQuery}" target="_blank">${text}</a>`,
+      );
+    });
+
+    // 防止链接点击事件冒泡，避免触发父元素的事件
+    $(".content a").on("click", function (e) {
+      e.stopPropagation();
+    });
+  });
+</script>
+
+{{ partial "modal_search.html" . }}
