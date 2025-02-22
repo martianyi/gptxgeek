@@ -201,11 +201,10 @@
     //夜间模式
     $(document).on('click', '.switch-dark-mode', function(event) {
         event.preventDefault();
-        $('body').toggleClass('io-black-mode');
+        $('body').toggleClass('io-black-mode '+theme.defaultclass);
         switch_mode(); 
         $("#"+ $('.switch-dark-mode').attr('aria-describedby')).remove();
         //$('.switch-dark-mode').removeAttr('aria-describedby');
-      
     });
     function switch_mode(){
         if($('body').hasClass('io-black-mode')){
